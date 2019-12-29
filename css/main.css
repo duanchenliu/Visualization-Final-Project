@@ -1,0 +1,365 @@
+h1{
+  padding-left: 70px;
+  padding-right: 70px;
+}
+h2{
+  color:white;
+}
+p.paddingleft{
+  padding-left: 70px;
+}
+p.paddingtop{
+  padding-top: 70px;
+  font-size: 25px;
+}
+p.paddingleft1{
+  padding-left: 70px;
+  font-size: 21px;
+}
+p.paddingright{
+  padding-right: 70px;
+}
+p.paddingtop1{
+  padding-left: 70px;
+  font-size: 21px;
+}
+p.padding{
+  padding: 70px;
+}
+
+div.paddingleft{
+  padding-left: 70px;
+}
+div.paddingtop{
+  padding-top:50px;
+}
+/* div.stackareatext{ */
+  /* padding-top: 70px; */
+/* } */
+
+span.redtext{ 
+  color:#FF0000;
+  font: 65px italic Georgia, serif;
+  font-weight: bolder;
+}
+span.redtext1{
+  color:#FF0000;
+  font: 55px italic Georgia, serif;
+  font-weight: bolder; 
+}
+
+span.blacktext{ 
+  color:black;
+  font: 65px italic Georgia, serif;
+  font-weight: bolder;
+}
+
+span.MiddleEast{
+  color:#513479;
+  font-weight: bolder;
+}
+span.SouthAsia{
+  color: #884f8b;
+  font-weight: bolder;
+}
+span.WestEuro{
+  color:#9e4579;
+  font-weight: bolder;
+}
+
+div.paddingdummy{
+  padding-left: 70px;
+}
+
+div.barsecondcolumn{
+  padding-left: 350px;
+  padding-top:70px;
+}
+
+#secondline{
+  padding-left: 400px;
+}
+
+h1.bars{
+  padding-top: 10px;
+}
+
+p.globetext{
+  font-size: 20pt;
+  padding-left:70pt;
+}
+
+p.globetext1{
+  font-size: 10pt;
+  padding-left:70pt;
+}
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: 'black'
+  /* change the bg color of entire page */
+  /* background: #000000; */
+}
+/* #section1 {
+  background-image: url("../image/webpage_B/terr01.jpg");
+  background-color: #cccccc;
+ } */
+a{
+  text-decoration: none;
+  /* color: #000; */
+  color:navy;
+  background: 0 0;
+  cursor: auto;
+}
+
+a:hover, a:focus {
+  color: #2a6496;
+  text-decoration: underline;
+}
+
+.container {
+  /* change the bg color to black */
+  /*background: rgb(0, 0, 0);
+  /* width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px; */
+}
+.section{
+  background:rgb(115, 115, 116)
+}
+
+#totalKill {
+  padding: 10px 0 14px 0;
+  font: 23px 'Titillium Web', arial, sans-serif;
+  background: #fafafa;
+  color: #5E545D;
+  text-align: center;
+}
+
+#totalKill b {
+  font-size: 26px;
+}
+
+#slider, #heatmap {
+  width: 100%;
+}
+
+.slider-bg {
+  /* change the background color of slider to black */
+  background: #000000;
+}
+
+
+#line_chart path{
+  /* stroke:black; */
+  
+  fill:none;
+}
+#line_chart path2{
+  stroke:#2a6496;
+  stroke-width:2px;
+  fill:none;
+}
+
+#map {
+  position: relative; 
+  width: 80%; 
+  padding-bottom: 32%;
+  height: 0;
+  overflow: hidden;
+  float: none;
+  margin: 0 auto;
+}
+
+#circlesmap {
+  padding-top: -10%;
+}
+
+.axis text {
+  font: 15px sans-serif;
+  fill: white;
+}
+
+.axis path,
+  /*display: none;*/
+
+.axis line {
+  fill: none;
+  /* stroke: black(255, 255, 255); */
+  stroke: white;
+  shape-rendering: crispEdge;
+}
+
+div#country_list{
+  background-color: yellow;
+}
+
+.grid-background {
+  fill: #ddd;
+}
+
+.grid line, .grid path {
+  fill: none;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.grid .minor.tick line {
+  stroke-opacity: .5;
+}
+
+.brush .extent {
+  stroke: none;
+  fill: rgb(255, 255, 255);
+  fill-opacity: .1;
+  shape-rendering: crispEdges;
+}
+
+#cite {
+  font-size: 14px;
+}
+
+footer{
+  margin: 20px auto 20px auto;
+	font-size: 10px;
+	text-align: center;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  /* height: 20pt; */
+}
+
+.mapcolumn{
+  float: left;
+  width: 60%;
+}
+.infoboxcolumn{
+  float: left;
+  width: 30%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.d3-tip {
+  line-height: 1;
+  padding: 6px;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.node {
+  fill: yellow;
+  stroke: rgb(255, 173, 30);
+  opacity: 0.5;
+}
+
+
+
+#country-info-holder{
+  /* text-align: left; */
+  /* font-size: 5pt; */
+  background-color: gainsboro;
+  padding: 0.5%;
+  /* http://cssdeck.com/labs/16-box-shadows-to-save-your-time */
+  -webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+  box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+  /* display:; */
+}
+
+#answer-holder{
+  /* text-align: left; */
+  /* font-size: 5pt; */
+  background-color: gainsboro;
+  padding: 0.5%;
+  padding-top:50px;
+  /* http://cssdeck.com/labs/16-box-shadows-to-save-your-time */
+  -webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+  box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+  display: none;
+}
+
+#country-info{
+  text-align: center;
+}
+
+/* this is the size of image of country */
+#college-image {
+  width: 128px;
+  height: 128px;
+}
+
+#group-image {
+  width: 500px;
+  height: 300px;
+}
+
+#country-quick-info{
+  height: 300;
+  overflow-y:scroll;
+}
+
+/* country info box  */
+/* ul.column li.box13 {
+	-webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+	box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+} */
+
+.map {
+  /* fill: rgba(58, 30, 30, 0.749); */
+  fill: rgba(87, 82, 82, 0.749);
+}
+
+/* div.globetooltip{
+  background: darkolivegreen;
+} */
+
+
+#line_chart div.tooltip {
+  color: white;
+  position: absolute;
+  text-align: center;
+  width: 130px;
+  height: 22px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: rgba(0,0,0,.8);
+  border: 2px solid black;
+  pointer-events: none;
+}
+
+#second_line_chart div.tooltip {
+  color: white;
+  position: absolute;
+  text-align: center;
+  width: 140px;
+  height: 50px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: rgba(0,0,0,.8);
+  border: 2px solid black;
+  pointer-events: none;
+}
+
+
+#second_line_chart path{
+  /* stroke:black; */
+  fill:none;
+}

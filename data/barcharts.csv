@@ -1,0 +1,11 @@
+target,targetnum,type,typenum,group,groupnum,groupfullname
+Private Citizens,43627,Bombing/Explosion,86809,Taliban,8135,Taliban
+Military,27076,Armed Assault,41470,ISIL,6168,Islamic State of Iraq and the Levant (ISIL)
+Police,24737,Assassination,18975,Shining Path (SL),4253,Shining Path (SL)
+General Government,20906,Kidnapping,10851,Al-Shabaab,3662,Al-Shabaab
+Business,20193,Infrastructure Attack,10417,FMLN,2689,Farabundo Marti National Liberation Front (FMLN)
+Transportation,6233,Unknown,7254,NPA,2597,New People's Army (NPA)
+Utilities,5039,Unarmed Assault,1035,Boko Haram,2595,Boko Haram
+Religious Figures,4531,Barricade Incident,995,IRA,2590,Irish Republican Army (IRA)
+Educational Institution,4294,Hijacking,622,FARC,2079,Revolutionary Armed Forces of Colombia (FARC)
+Diplomatic Government,3510,,,PKK,2014,Kurdistan Workers' Party (PKK)

@@ -1,0 +1,243 @@
+#section1 {
+    /* background-image: url("../image/webpage_B/Bullet_Holes.jpg"); */
+    background-image: url("../image/terrorism.jpg");
+    background-color: #cccccc;
+    background-position: center;
+  background-repeat: no-repeat;
+   }
+
+
+h1{
+    color:white;
+}
+
+/* styling for p!!! */
+p{
+    color:white;
+}
+
+#ter_def{
+  text-align: center;
+}
+div.intro01{
+    font-size: 75px;
+    color : white
+}
+div.intro02{
+    font-size: 35px;
+    color : white
+}
+/* shift the division*/
+
+#line_chart{
+    position: relative; 
+    left:100px;
+}
+
+/* quiz section decoration */
+
+#section1_1 {
+    background-image: url("../image/webpage_B/quiz04.jpg");
+    background-color: #cccccc;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+   }
+
+#quiz{
+    color:white;
+    background-color: coral;
+    opacity: 0.7;
+    font-family: 'Raleway',sans-serif; 
+    font-size: 18px; 
+    font-weight: bold;
+    padding-left:50px;
+}
+
+#explain1,#explain2,#explain3,#explain4{
+    background-color: coral;
+    opacity: 0.86;
+    color: #f8f8f8; 
+    font-family: 'Raleway',sans-serif; 
+    font-size: 18px; 
+    font-weight: bold;
+    padding-left:70px;
+}
+
+
+
+
+
+#submit {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: orange;
+    padding: 15px;
+    border-radius: 5px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+    }
+
+#submit:hover {
+        background: #434343;
+        letter-spacing: 1px;
+        -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+        -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+        box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+        transition: all 0.4s ease 0s;
+        }
+
+        /* title */
+
+.slashed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+  
+}
+.slashed .top{
+  text-align: center;
+  font: 62px/100px arial;
+  text-transform: uppercase;
+  text-align: center;
+  overflow: hidden;
+  color: black;
+}
+.slashed .bot {
+  text-align: center;
+  font: 62px/100px arial;
+  text-transform: uppercase;
+  text-align: center;
+  overflow: hidden;
+  color:rgba(252, 7, 7, 0.975);
+}
+.slashed .top:before,
+.slashed .bot:before {
+  content: attr(title);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+.slashed .top {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  right: 0;
+  bottom: 50%;
+}
+.slashed .top:before {
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  right: 0;
+}
+.slashed .bot {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 5px;
+  bottom: 0;
+}
+.slashed .bot:before {
+  position: absolute;
+  top: -50px;
+  left: 0;
+  right: 0;
+}
+
+
+/* globe change */
+#big_guy{
+    position: relative;
+    left: 100px;
+   
+}
+
+#big_guy_slider{
+    position: relative;
+    left: 140px;
+    font-size:30px;
+}
+#current_yr{
+    position: relative;
+    left: 500px;
+    font-size: 50px;
+    bottom:20px;
+}
+#legendLinear{
+    position: relative;
+    left: 300px;
+    bottom:30px;
+}
+
+#bar_chart1{
+  position: relative;
+  left: 150px;
+  bottom:30px;
+}
+
+#bar_chart2{
+  position: relative;
+  left: 150px;
+  bottom:30px;
+}
+
+#bar_chart2_text{
+  position: relative;
+  left: 280px;
+  bottom:30px;
+  font-size: 15px;
+  padding-top:70px;
+  /* padding-left:100px; */
+  
+}
+
+#bar_chart3{
+  position: relative;
+  left: 150px;
+  bottom:30px;
+}
+
+#stacked-area-chart{
+  position: relative;
+  left: 180px;
+  bottom:30px;
+}
+
+#second_line_chart{
+  position: relative;
+  left: 180px;
+  bottom:0px;
+}
+
+
+
+#timeline{
+  position: relative;
+  left: 180px;
+  bottom:30px;
+}
+
+
+#top_ten_map{
+    position: relative;
+    left:50px;
+ 
+}
+#top_ten_map svg{
+  border-style: dashed;
+}
+
+#reference{
+  
+  padding-left: 10px;
+  border-style: dashed;
+}

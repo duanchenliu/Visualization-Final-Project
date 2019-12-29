@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Final Project</title>
+    <!-- Load CSS files -->
+    <!-- bootstrap lib -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <!-- <link rel="stylesheet" href="css/fontawesome.min.css">
+    <link rel="stylesheet" href="css/milligram.min.css"> -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <link rel="stylesheet" href="css/backGround.css">
+    <link rel="stylesheet" href="css/final_section.css">
+    <link rel="stylesheet" type="text/css" href="dist/fullpage.css" />
+
+    <style>
+    #section2 #p1{
+                opacity: 0;
+                transition: all 800ms ease;
+                }
+    /* #section2 #p2{
+    opacity: 0;
+    transition: all 1600ms ease;
+    } */
+    </style>
+</head>
+<body>
+
+<!-- Introduction part -->
+<div id="fullpage">
+    <div class="section" id="section1">
+        <!-- <div class="frontpage"> -->
+                <div class="slashed">
+                        <div class="top" title="Story behind terrorism."></div>
+                        <div class="bot" title="Story behind terrorism."></div>
+                </div>
+        <!-- </div> -->
+            
+    </div>
+
+    <div class="section" id="section1_2">
+    <p id = "ter_def">
+        <strong style="font: italic 2em Georgia, serif; ">
+                Terrorism: "The threatened or actual use of illegal force 
+                <br></br>
+                and violence by a non-state actor to attain a political, economic, religious,
+                <br></br>
+                  or social goal through fear, coercion, or intimidation." 
+        </strong>
+    </p>
+        
+    </div>
+
+    <!-- line graph part -->
+    <div class="section" id="section2">
+        <div class="row" >
+                <strong>
+                    <h1>There is an increasing trend in number of <span class="blacktext">attacks</span> and <span class="redtext">deaths</span> due to terrorism...</h1>
+                    <p class="paddingleft paddingright">Such a rise has become a worldwide concern with several communities reeling under frequent terrorist strikes.</p>
+                </strong>
+                <div class="row" id="about">
+                        <div class="mapcolumn" id = "line_chart"></div>
+                        <div class="infoboxcolumn">
+                            <!-- !!!!!!!!!if we still want animation: add id="p1" below -->
+                            <p class="paddingleft paddingtop" id="p1">
+                                    In this chaos, it is fair to ask contextual questions such as <b style="color: black">“Who are these people committing the attacks?”, “Where are they acting?”, “Why?”</b> 
+                            </p>
+                            <!-- <p class="paddingleft paddingtop" id="p2">
+                                    This is when our project comes into scene! To shine a light on this difficult topic, we decided to tackle this data in our visualization project, with hopes it will bring further awareness to the public so we could help victims and minimize damage. 
+                            </p> -->
+                        </div>
+                </div>
+                
+        </div>
+    </div>
+
+
+<!-- quiz section -->
+<div class="section" id="section1_1">
+    <h1>Before we dive into the details of terrorism, here is a warm-up quiz to test your current knowledge on terrorism.</h1>
+    <div class = "container">
+        
+        <div class = "row">
+                <div id="quiz"></div>
+        </div>
+        <br></br>
+        <div >
+                <div id = "explain1"></div>
+                <div id = "explain2"></div>
+
+                <div id = "explain3"></div>
+                <div id = "explain4"></div>
+
+        </div>
+        <div class="paddingleft paddingtop">
+                <button id="submit">Get Results</button>
+        </div>
+    </div>
+</div>
+
+
+<div class="section" id="section3">
+        <p id = "ter_def">
+                <strong style="font: italic 2em Georgia, serif; ">
+                        Now, let's dive into the bigger picture of terrorism
+                        <br></br>
+                        and talk about the number of attacks from 1970-2018 across the world.
+                        <br></br>
+                        
+                </strong>
+            </p>
+</div>
+
+    
+
+    <!-- Container for sunburst chart -->
+    <div class="section" id="section4">
+            <strong>
+                <h1><span class="MiddleEast">The Middle East</span> and <span class="SouthAsia">South Asia</span> have the highest number of terrorist attacks, however, <span class="WestEuro">Western Europe</span> also shows alarming numbers.</h1>
+            </strong>
+        <div class="row" id="about">
+                <div class="mapcolumn">
+                        <div id="chart-area-sunburst"></div>
+                </div>
+                <div class="infoboxcolumn">
+                    <br></br>
+                    <p class="paddingleft1, paddingtop1" id="p3"> <!-- Terrorism tends to be very geographically-focused: mostly occurred in the Middle East, Africa or South Asia. <b>However, --> Terrorism doesn’t just happen in developing or poor countries, they happen everywhere. Explore the Sunburst to gain a better understanding of the territorial distribution of terrorist attacks since 1970.</p>
+                    <br></br>
+                    <p class="paddingleft1, paddingtop1" id="p4">
+                        Click on the <b style="color:red ">r</b><b style="color:orange">e</b><b style="color:rgb(13, 148, 13)">g</b><b style="color:greenyellow">i</b><b style="color:blue">o</b><b style="color:purple">n</b> to zoom in and see the attack numbers of countries in that region. Then click on the <b style="color:red ">c</b><b style="color:orange">o</b><b style="color:yellow">u</b><b style="color:rgb(13, 148, 13)">n</b><b style="color:greenyellow">t</b><b style="color:blue">r</b><b style="color:purple">y</b> to see the cities within that country. Click the middle to go back.
+                    </p>
+                </div>
+        </div>
+    </div>
+
+    
+    <!-- globe -->
+    <div class="section" id="section5">
+        <strong>
+            <h1 class="paddingleft paddingright">Number of <span class="redtext1">deaths</span> increases in many countries across time correlating to the increasing number of attacks across the world.</h1>
+            <p class="globetext1"> Drag the map below (by the lands) and explore how death changes overtime given different countries.</p>
+        </strong>
+        
+            <div class="container">
+                    <!-- <h1>global title</h1> -->
+               <div id = "big_guy"></div>
+               <div id = "big_guy_slider">YEAR Bar:</div>
+               <div id = "current_yr" type="number"></div>
+               <svg id="legendLinear" height=200 width=1000></svg>
+           </div>
+    </div>
+
+    <div class="section" id="section6">
+            <p id = "ter_def">
+                    <strong style="font: italic 2em Georgia, serif; ">
+                            Now we know what parts of the world suffered the most because of terrorism 
+                            <br></br>
+                            cumulatively and in each year.
+                            <br></br>
+                            Now let's dive into the details behind the attacks: target types, attack types, and terrorist groups.
+                            
+                    </strong>
+                </p>
+    </div>
+
+    <!-- first bar chart -->
+    <div class="section" id="section7">
+        <h1>
+            <b style="color:brown">Private citizens</b> are the most common target in a terrorist attack, with 43627 attacks in the past 40 years.
+        </h1>
+        <div class="row">
+            <div class="column" id = "bar_chart1"></div>
+            <div class="barsecondcolumn">
+                <p>Although terrorist groups aimed to demonstrate their power over </p>
+                <p>government officials or military forces, they are more likely to choose </p>
+                <p>private citizens as targets.</p>
+                <br>
+                <p>This is because other targets have been fortified and the terrorists</p>
+                <p>sought greater carnage to demonstrate their abilities. </p>
+                <p>So private citizens become the preferred target type.</p>
+                <br>
+                <p>More importantly, authorities are more successful at stopping attacks  </p>
+                <p>against government officials, buildings, and the military, thereby </p>
+                <p>pushing terrorists to focus their attacks on private citizens or businesses.</p>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- bar chart 2 -->
+    <div class="section" id="section8">
+        <div class="slide" id="slide1" data-anchor="slide1">
+            <div class="intro">
+                <!-- <h1>Clickable</h1> -->
+                <div class="row">
+                    <h1><b style="color:saddlebrown">Bombs</b> are the most common weapon used in terrorist attacks, contributing to nearly half of all attacks.</h1>
+                </div>
+            
+                <div class="row">
+                    <div class="column" id = "bar_chart2">
+                        <!-- Top 9 attack types: -->
+                    </div>
+                    <!-- <div class="column" id= "bar_chart2_text"> -->
+                    <div class="barsecondcolumn">
+                        <p>Bombs are the most commonly used weapons due to their  </p>
+                        <p>low cost and high impact. As a consequence of globalisation, </p>
+                        <p>the relative ease of access to the chemicals used to make  </p>
+                        <p>explosives has made improvised explosive devices increasingly </p>
+                        <p>prominent. </p>
+                        <br>
+                        <p>Bombs can be implanted in automobiles, buildings, or on a  </p>
+                        <p>person (in suicide attacks). The flexible nature of bombs</p>
+                        <p>causes tremendous fears and distress, which is exactly  </p>
+                        <p>what the terrorists want to achieve.</p>
+                        <br>
+                        <p>Want to see the trends behind the weapon types across the years?</p>
+                        <p>Please click on the right arrow to see on next page.</p>
+                        <!-- <p>Explosives have been having an increasing trend in usage,</p>
+                        <p>and at the same time are the most deadly ones, </p>
+                        <p>which might be a correlation with the increasing trend in deaths</p> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="slide" id="slide2" data-anchor="slide2">
+            <!-- Container for stack chart -->
+            <div class="container">
+                    <h1>Bombing also has an increasing trend in usage across the years.</h1> 
+                    
+                    <div class="row">
+                        <div class="column">
+                            <div id="stacked-area-chart"></div>
+                            <div id="timeline"></div>
+                        </div>
+                        <div class="stackareatext">
+                                <p>
+                                The use of weapons like bombs and firearms has a spike between year 2010 - 2015. 
+                                This was due to an upsurge in terrorism in 2013, due to the destabilisation in Syria, 
+                                which has overflowed into Iraq. 
+                                There were nearly 10,000 terrorist attacks in 2013, a 44% increase from the previous year. 
+
+                                Click on each type of weapon to see the trend for that weapon.
+                                Brush on the timeline to zoom into the years you want to explore. 
+                                </p>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- barchart3 -->
+    <div class="section" id="section9">
+        <div class="slide" id="slide1" data-anchor="slide1">
+            <!-- <div class="intro"> -->
+                <h1><b style="color: salmon">Taliban</b> is most notorious terrorist group, who contributed to the most number of attacks.</h1>
+                <div class="row">
+                        <div class="column" id = "bar_chart3"></div>
+                        <div class="barsecondcolumn">
+                                <p>From year 1970 to 2018, Taliban commited the most attacks: </p>
+                                <p>over 8,000 of them. Although PKK commited the least,</p>
+                                <p>they still orgnized over 2,000 attacks over the years. </p>
+                                <br>
+                                <p>Hover your mouse on the bar chart to see the number of </p>
+                                <p>attacks committed by each group</p>
+                                <p>Click the bar to see the releated picture!</p>
+            
+                                <img id="group-image">
+                            </div>
+                </div>
+                
+                <!-- <div class="column" id= "bar_chart2_text"> -->
+                
+            <!-- </div> -->
+        </div>
+        
+        <div class="slide" id="slide2" data-anchor="slide2">
+            <h1><span class="blacktext">Taliban</span> and <span class="redtext">ISIL</span> led the number of attacks from 2010 to 2018.</h1> 
+            <div class="row">
+                <div class="mapcolumn">
+                        <div id = "second_line_chart"></div>
+                </div>
+                <div class="infoboxcolumn paddingtop">
+                    <br>
+                    <br>
+                    <br>
+                    <p>Although Taliban (founded in 1994) and ISIL </p>
+                    <p>(founded in 1999) are relatively younger groups  </p>
+                    <p>compares to IRA and PKK, they are much more </p>
+                    <p>active than the other groups in 2010s.</p>
+                </div>
+            
+            </div>
+            
+        </div>
+
+            
+    </div>
+
+        <!-- top 10 map part -->
+    <div class="section" id="section10">
+            <h1>Top 10 deadliest terrorist attacks in history...</h1>
+            <p class="paddingleft">To bring perpetrators, means and targets together, below you can find the 10 worst attacks in history. Hover over the circles to learn more about them. </p>
+            <div class="row" id="about">
+                <div class="mapcolumn" id = "top_ten_map"></div>
+                <div class="infoboxcolumn" id = "country-info-holder">
+                    <div id="country-info">
+                        <img id="college-image">
+                        <div id="country-quick-info"></div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <!-- how we can help -->
+        <div class="section" id="section11">
+            <!-- <section class="section"> -->
+                <div class="container">
+                  <h2>And there's plenty we can do to help.</h2>
+                  <div class="row">
+                    <div class="col">
+                      <div class="card">
+                        <div class="card-body">
+                          <a href="http://www.victimsofterrorismkenya.org/">Victims of Terrorism Organization (Kenya)</a> is an NON-Profit making organization based in Nairobi Kenya. The organization was established in 2010 with the main aim of working with victims of terrorism in Kenya and around the world to promote peace and harmony. 
+                        </div>
+                        <div class="card-footer">
+                          <a href="http://www.victimsofterrorismkenya.org/donate/" target="_blank" class="btn btn-success btn-block">Donate to VTO</a>
+                        </div>
+                      </div>
+                    </div> 
+
+                  <div class="col">
+                        <div class="card">
+                                <div class="card-body">
+                                  <a href="https://www.redcross.org/">The American Red Cross</a> is a humanitarian organization that provides emergency assistance, disaster relief, and disaster preparedness education in the United States.
+                                 
+                                </div>
+                                <div class="card-footer">
+                                  <a href="https://www.redcross.org/donate/donation.html" target="_blank" class="btn btn-success btn-block">Donate to Red Cross</a>
+                                </div>
+                        </div>
+                  </div>
+
+                  <div class="col">
+                        <div class="card">
+                                <div class="card-body">
+                                  <a href="http://stosglobal.org/">Strength to strength</a> brings victims of terrorism together globally in order to share their experiences through peer to peer support and move forward with their lives despite the trauma they have been through. 
+                                 
+                                </div>
+                                <div class="card-footer">
+                                  <a href="http://stosglobal.org/2013/05/donate/" target="_blank" class="btn btn-success btn-block">Donate to STS</a>
+                                </div>
+                        </div>
+                  </div>
+
+                  <div class="col">
+                        <div class="card">
+                                <div class="card-body">
+                                  <a href="https://www.un.org/victimsofterrorism/en/directory">United Nations Directory</a> has a database of all organizations that support the victims of terrorism. 
+                                  
+                                </div>
+                                <div class="card-footer">
+                                  <a href="https://www.un.org/victimsofterrorism/en/directory" target="_blank" class="btn btn-info btn-block">Click to Learn More</a>
+                                </div>
+                        </div>
+                  </div>
+
+
+
+                  </div>
+            <!-- </section> -->
+                </div>
+        </div>
+
+
+
+        <div class="section" id="section12">
+                <div class="container">
+                        <div class="row">
+                                <div class="col" id = "finalSec_01">
+                                        <h1 style="border-style: dashed;">
+                                            About this project
+                                        </h1>
+                                        <p>
+                                                This was a final project for Boston College's Visualization course. By Duanchen Liu, Xuheng Duan, Xinyu Yao, and Juliana Fakhoury. 
+                                        
+                                                With special thanks to our professor and instructor, Dr. Nam Wook Kim, and our teaching assistant, Pedro Guimarães.
+                                                
+                                        </p>
+                                        <div class="card" style="width: 18rem;">
+                                            <!-- <img src="../imgage/webpage_B/Quiz.jpg" class="card-img-top" alt="..."> -->
+                                            <div class="card-body">
+                                              <h3 class="card-title">Thank you for reading our page!</h3>
+                                              <p class="card-text"></p>
+                                              <a href="https://github.com/bcviscourse/project-letsgofinalproject" class="btn btn-primary stretched-link">Our github page</a>
+                                            </div>
+                                          </div>
+                                        
+                                </div>
+                                <div class="col" >
+                                        <h1 id = 'reference'> 
+                                                References:
+                                        </h1>   
+                                        <ul class="list-group">
+                                                
+                                                <li class="list-group-item ">Dataset: https://www.kaggle.com/START-UMD/gtd</li>
+                                                <li class="list-group-item">Project Ideas: https://www.kaggle.com/ash316/terrorism-around-the-world
+                                                    </li>
+                                                <li class="list-group-item">Template idea: https://hathix.github.io/through-the-eyes-of-a-survivor/</li>
+                                                <li class="list-group-item">Globe sample: http://bl.ocks.org/KoGor/5994804</li>
+                                                <li class="list-group-item">Sunbrust: https://observablehq.com/@d3/zoomable-sunburst</li>
+                                                <!-- <li class="list-group-item">Vestibulum at eros</li>
+                                                <li class="list-group-item">Vestibulum at eros</li>
+                                                <li class="list-group-item">Vestibulum at eros</li>
+                                                <li class="list-group-item">Vestibulum at eros</li>
+                                                <li class="list-group-item">Vestibulum at eros</li> -->
+                                            </ul>                                       
+                                        
+                                        
+                                </div>
+                        </div>
+                        <div class="row">
+                                
+                        </div>
+                      </div>
+
+        </div>
+
+
+    
+
+</div>
+
+
+
+
+
+
+ <!-- Load JS libraries: D3 -->
+ <!-- bootstrap lib -->
+ <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+ 
+ 
+ <script src="js/d3.min.js"></script>
+
+ <script src="js/vis/quiz.js"></script>
+
+
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+ <script src="https://unpkg.com/versor"></script>
+ <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.min.js'></script>
+   <!-- Load JS libraries: Vega-lite -->
+   <script src="https://cdn.jsdelivr.net/npm/vega@5.7.2"></script>
+   <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.0-beta.10"></script>
+   <script src="https://cdn.jsdelivr.net/npm/vega-embed@5.1.3"></script>
+   <!-- Your implementation -->
+
+ <script src="js/vis/barchart/barchart1.js"></script>
+ <script src="js/vis/barchart/barchart2.js"></script>
+ <script src="js/vis/barchart/barchart3.js"></script>
+
+ 
+
+ <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+ <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
+  <script src="https://d3js.org/topojson.v1.min.js"></script>
+
+
+ <script src="js/vis/sunburst.js"></script>
+ <script src="js/vis/newlinechart.js"></script>
+ <script src="js/main.js"></script>
+ <script src="js/vis/topTenMap.js"></script>
+ <script src="js/quiz.js"></script>
+ <script src="js/second_line_chart.js"></script>
+
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+
+   <script type="module" src="js/main.js"></script>
+   
+
+
+           <script  src="js/vis/spinEarth.js"></script>
+
+
+<script type="text/javascript" src="dist/fullpage.js"></script>
+
+<script type="text/javascript">
+    var myFullpage = new fullpage('#fullpage', {
+        anchors: ['firstPage', 'secondPage', 'thirdPage','fourthPage','fifthPage','sixthPage','seventhPage','eighthpage','ninthpage','tenthpage','eleventhpage','twelfthpage','thirteenthpage','fourteenthpage'],
+        navigation: true,
+        navigationPosition: 'right',
+
+        navigationTooltips: ['Title Page', 'Definition', 'Trend', 'Quiz','Big Picture Section','Attacks Across the World','Attacks Across Time','Detail Section', 'Target Insight', 'Attack Type Insight', 'Terrorist Groups Insight','Top Ten', 'How We Can Help','References'],
+        afterLoad: function(origin, destination, direction){
+            //section 2
+            if(destination.index == 1){
+                // document.querySelector('#section2').querySelector('img').style.left = 0 + 'px';
+                document.querySelector('#section2').querySelector('#p1').style.opacity = 0;
+            //  document.querySelector('#section2').querySelector('#p2').style.opacity = 0;
+            }
+
+            //back to original state
+            else if(origin && origin.index == 1){
+                // document.querySelector('#section2').querySelector('img').style.left = 130 + '%';
+                document.querySelector('#section2').querySelector('#p1').style.opacity = 1;
+                // document.querySelector('#section2').querySelector('#p2').style.opacity = 1;
+            }
+            
+            
+
+            //section 3 is using the state classes to fire the animation
+            //see the CSS code above!
+        }
+
+    });
+</script>
+
+</body>
+</html>
+

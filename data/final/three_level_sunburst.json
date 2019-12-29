@@ -1,0 +1,9426 @@
+{
+ "name": "World",
+ "children": [
+  {
+   "name": "Sub-Saharan Africa",
+   "children": [
+    {
+     "name": "Mali",
+     "children": [
+      {
+       "name": "Bamako",
+       "value": 17
+      },
+      {
+       "name": "Tessalit",
+       "value": 12
+      },
+      {
+       "name": "Gossi",
+       "value": 10
+      },
+      {
+       "name": "Boni",
+       "value": 14
+      },
+      {
+       "name": "Gao",
+       "value": 46
+      },
+      {
+       "name": "Menaka",
+       "value": 21
+      },
+      {
+       "name": "Aguelhoc",
+       "value": 32
+      },
+      {
+       "name": "Timbuktu",
+       "value": 46
+      },
+      {
+       "name": "Goundam",
+       "value": 17
+      },
+      {
+       "name": "Tenenkou",
+       "value": 11
+      },
+      {
+       "name": "Kidal",
+       "value": 58
+      }
+     ]
+    },
+    {
+     "name": "Cameroon",
+     "children": [
+      {
+       "name": "Kumba",
+       "value": 10
+      },
+      {
+       "name": "Mora",
+       "value": 18
+      },
+      {
+       "name": "Am Chide",
+       "value": 14
+      },
+      {
+       "name": "Bamenda",
+       "value": 39
+      },
+      {
+       "name": "Kolofata",
+       "value": 26
+      },
+      {
+       "name": "Buea",
+       "value": 19
+      },
+      {
+       "name": "Fotokol",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "Sudan",
+     "children": [
+      {
+       "name": "Khartoum",
+       "value": 29
+      },
+      {
+       "name": "Gereida",
+       "value": 14
+      },
+      {
+       "name": "Juba",
+       "value": 11
+      },
+      {
+       "name": "Kutum",
+       "value": 26
+      },
+      {
+       "name": "Kabkabiya",
+       "value": 25
+      },
+      {
+       "name": "Zalingei",
+       "value": 14
+      },
+      {
+       "name": "Kadugli",
+       "value": 25
+      },
+      {
+       "name": "Nyala",
+       "value": 48
+      },
+      {
+       "name": "Kabkabiya district",
+       "value": 14
+      },
+      {
+       "name": "Nertiti",
+       "value": 11
+      },
+      {
+       "name": "Tawilah",
+       "value": 28
+      },
+      {
+       "name": "Yambio",
+       "value": 10
+      },
+      {
+       "name": "El Fashir",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "Mozambique",
+     "children": [
+      {
+       "name": "Beira",
+       "value": 15
+      },
+      {
+       "name": "Maputo",
+       "value": 50
+      },
+      {
+       "name": "Ressado Garcia",
+       "value": 10
+      },
+      {
+       "name": "Muxungue",
+       "value": 21
+      }
+     ]
+    },
+    {
+     "name": "Angola",
+     "children": [
+      {
+       "name": "Cassoalala",
+       "value": 43
+      },
+      {
+       "name": "Luena",
+       "value": 11
+      },
+      {
+       "name": "Huambo",
+       "value": 28
+      },
+      {
+       "name": "Luanda",
+       "value": 66
+      },
+      {
+       "name": "Uige",
+       "value": 10
+      },
+      {
+       "name": "Icolo e Bengo district",
+       "value": 41
+      },
+      {
+       "name": "Dondo",
+       "value": 25
+      },
+      {
+       "name": "Malange",
+       "value": 11
+      }
+     ]
+    },
+    {
+     "name": "Somalia",
+     "children": [
+      {
+       "name": "Dinsor",
+       "value": 13
+      },
+      {
+       "name": "Lambar 50",
+       "value": 15
+      },
+      {
+       "name": "Barawe",
+       "value": 33
+      },
+      {
+       "name": "Ceel Cadde",
+       "value": 12
+      },
+      {
+       "name": "Janale",
+       "value": 18
+      },
+      {
+       "name": "Bardere",
+       "value": 44
+      },
+      {
+       "name": "Halgan",
+       "value": 15
+      },
+      {
+       "name": "Dhusamareb",
+       "value": 15
+      },
+      {
+       "name": "Leego",
+       "value": 22
+      },
+      {
+       "name": "Baidoa",
+       "value": 162
+      },
+      {
+       "name": "Golweyn",
+       "value": 12
+      },
+      {
+       "name": "Afgoye",
+       "value": 119
+      },
+      {
+       "name": "Hudur",
+       "value": 31
+      },
+      {
+       "name": "Mogasishu",
+       "value": 14
+      },
+      {
+       "name": "Afgoye district",
+       "value": 17
+      },
+      {
+       "name": "Guriceel",
+       "value": 12
+      },
+      {
+       "name": "Fafahdun",
+       "value": 16
+      },
+      {
+       "name": "Ceel Waaq",
+       "value": 14
+      },
+      {
+       "name": "Ceelasha Biyaha",
+       "value": 20
+      },
+      {
+       "name": "Qoryoley district",
+       "value": 15
+      },
+      {
+       "name": "Bosaso",
+       "value": 101
+      },
+      {
+       "name": "Burhakaba",
+       "value": 22
+      },
+      {
+       "name": "Kismayo",
+       "value": 206
+      },
+      {
+       "name": "Bulobarde",
+       "value": 41
+      },
+      {
+       "name": "Garowe",
+       "value": 10
+      },
+      {
+       "name": "Merca district",
+       "value": 12
+      },
+      {
+       "name": "Afmadow",
+       "value": 24
+      },
+      {
+       "name": "Qansax Dheere",
+       "value": 12
+      },
+      {
+       "name": "Mahaday",
+       "value": 23
+      },
+      {
+       "name": "Shalan Bood",
+       "value": 19
+      },
+      {
+       "name": "Hargeisa",
+       "value": 12
+      },
+      {
+       "name": "Burdhubo",
+       "value": 13
+      },
+      {
+       "name": "Beled Hawo",
+       "value": 39
+      },
+      {
+       "name": "Lafoole",
+       "value": 22
+      },
+      {
+       "name": "Beledweyne",
+       "value": 135
+      },
+      {
+       "name": "Harardhere",
+       "value": 15
+      },
+      {
+       "name": "Siinka Dheer",
+       "value": 12
+      },
+      {
+       "name": "Awdheegle",
+       "value": 11
+      },
+      {
+       "name": "Kulbiyow",
+       "value": 10
+      },
+      {
+       "name": "Dhobley",
+       "value": 11
+      },
+      {
+       "name": "Galkayo",
+       "value": 112
+      },
+      {
+       "name": "Ceel Buur",
+       "value": 29
+      },
+      {
+       "name": "Jalalaqsi",
+       "value": 13
+      },
+      {
+       "name": "Mogadishu",
+       "value": 1761
+      },
+      {
+       "name": "Balcad",
+       "value": 20
+      },
+      {
+       "name": "Bulo Marer",
+       "value": 18
+      },
+      {
+       "name": "Qoryoley",
+       "value": 59
+      },
+      {
+       "name": "Merca",
+       "value": 94
+      },
+      {
+       "name": "Barire",
+       "value": 12
+      },
+      {
+       "name": "Goof Gaduud",
+       "value": 23
+      },
+      {
+       "name": "Daynunay",
+       "value": 19
+      },
+      {
+       "name": "Wajid",
+       "value": 20
+      },
+      {
+       "name": "Jilib",
+       "value": 10
+      },
+      {
+       "name": "Galgala",
+       "value": 21
+      },
+      {
+       "name": "Jowhar",
+       "value": 37
+      },
+      {
+       "name": "Garbahaareey",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "Nigeria",
+     "children": [
+      {
+       "name": "Warri",
+       "value": 35
+      },
+      {
+       "name": "Barakin Ladi district",
+       "value": 11
+      },
+      {
+       "name": "Madagali",
+       "value": 16
+      },
+      {
+       "name": "Damaturu",
+       "value": 60
+      },
+      {
+       "name": "Ikorodu",
+       "value": 12
+      },
+      {
+       "name": "Buni Yadi",
+       "value": 26
+      },
+      {
+       "name": "Mubi",
+       "value": 21
+      },
+      {
+       "name": "Damboa",
+       "value": 25
+      },
+      {
+       "name": "Yenagoa",
+       "value": 19
+      },
+      {
+       "name": "Enugu",
+       "value": 11
+      },
+      {
+       "name": "Ngala",
+       "value": 10
+      },
+      {
+       "name": "Gombe",
+       "value": 41
+      },
+      {
+       "name": "Kaduna",
+       "value": 38
+      },
+      {
+       "name": "Mainok",
+       "value": 10
+      },
+      {
+       "name": "Gamboru",
+       "value": 24
+      },
+      {
+       "name": "Bama",
+       "value": 30
+      },
+      {
+       "name": "Lagos",
+       "value": 46
+      },
+      {
+       "name": "Baga",
+       "value": 15
+      },
+      {
+       "name": "Jos",
+       "value": 47
+      },
+      {
+       "name": "Buratai",
+       "value": 10
+      },
+      {
+       "name": "Benin City",
+       "value": 13
+      },
+      {
+       "name": "Kukawa district",
+       "value": 17
+      },
+      {
+       "name": "Abuja",
+       "value": 25
+      },
+      {
+       "name": "Rann",
+       "value": 16
+      },
+      {
+       "name": "Zaria",
+       "value": 11
+      },
+      {
+       "name": "Banki",
+       "value": 17
+      },
+      {
+       "name": "Nembe",
+       "value": 13
+      },
+      {
+       "name": "Konduga",
+       "value": 33
+      },
+      {
+       "name": "Ughelli",
+       "value": 11
+      },
+      {
+       "name": "Dalori",
+       "value": 13
+      },
+      {
+       "name": "Sabon Gari",
+       "value": 15
+      },
+      {
+       "name": "Pulka",
+       "value": 10
+      },
+      {
+       "name": "Mafa",
+       "value": 14
+      },
+      {
+       "name": "Dikwa",
+       "value": 18
+      },
+      {
+       "name": "Gwoza",
+       "value": 23
+      },
+      {
+       "name": "Jos district",
+       "value": 10
+      },
+      {
+       "name": "Kano",
+       "value": 129
+      },
+      {
+       "name": "Logo district",
+       "value": 37
+      },
+      {
+       "name": "Maiduguri",
+       "value": 465
+      },
+      {
+       "name": "Marte",
+       "value": 12
+      },
+      {
+       "name": "Monguno",
+       "value": 12
+      },
+      {
+       "name": "Bauchi",
+       "value": 20
+      },
+      {
+       "name": "Chibok",
+       "value": 10
+      },
+      {
+       "name": "Port Harcourt",
+       "value": 73
+      },
+      {
+       "name": "Biu",
+       "value": 20
+      },
+      {
+       "name": "Gwoza district",
+       "value": 11
+      },
+      {
+       "name": "Potiskum",
+       "value": 65
+      }
+     ]
+    },
+    {
+     "name": "South Africa",
+     "children": [
+      {
+       "name": "Sebokeng",
+       "value": 19
+      },
+      {
+       "name": "East London",
+       "value": 20
+      },
+      {
+       "name": "Cape Town",
+       "value": 97
+      },
+      {
+       "name": "Mdantsane",
+       "value": 13
+      },
+      {
+       "name": "Roodepoort",
+       "value": 10
+      },
+      {
+       "name": "Pretoria",
+       "value": 52
+      },
+      {
+       "name": "Richmond",
+       "value": 13
+      },
+      {
+       "name": "Nyanga",
+       "value": 13
+      },
+      {
+       "name": "Dalton",
+       "value": 19
+      },
+      {
+       "name": "Alexandra",
+       "value": 30
+      },
+      {
+       "name": "Port Elizabeth",
+       "value": 17
+      },
+      {
+       "name": "Germiston",
+       "value": 13
+      },
+      {
+       "name": "Pietermaritzburg",
+       "value": 23
+      },
+      {
+       "name": "Durban",
+       "value": 138
+      },
+      {
+       "name": "Tembisa",
+       "value": 13
+      },
+      {
+       "name": "Vosloorus",
+       "value": 12
+      },
+      {
+       "name": "Gugulethu",
+       "value": 13
+      },
+      {
+       "name": "Mamelodi",
+       "value": 15
+      },
+      {
+       "name": "Khayelitsha",
+       "value": 11
+      },
+      {
+       "name": "Springs",
+       "value": 10
+      },
+      {
+       "name": "Johannesburg",
+       "value": 266
+      },
+      {
+       "name": "Umlazi",
+       "value": 33
+      },
+      {
+       "name": "KwaMashu",
+       "value": 17
+      },
+      {
+       "name": "Thokoza",
+       "value": 23
+      },
+      {
+       "name": "Soweto",
+       "value": 143
+      },
+      {
+       "name": "Katlehong",
+       "value": 32
+      },
+      {
+       "name": "Messina",
+       "value": 10
+      }
+     ]
+    },
+    {
+     "name": "Madagascar",
+     "children": [
+      {
+       "name": "Antananarivo",
+       "value": 17
+      }
+     ]
+    },
+    {
+     "name": "Niger",
+     "children": [
+      {
+       "name": "Diffa",
+       "value": 11
+      },
+      {
+       "name": "Bosso",
+       "value": 12
+      },
+      {
+       "name": "Agadez",
+       "value": 10
+      }
+     ]
+    },
+    {
+     "name": "Tanzania",
+     "children": [
+      {
+       "name": "Zanzibar",
+       "value": 13
+      }
+     ]
+    },
+    {
+     "name": "Republic of the Congo",
+     "children": [
+      {
+       "name": "Brazzaville",
+       "value": 22
+      }
+     ]
+    },
+    {
+     "name": "Namibia",
+     "children": [
+      {
+       "name": "Owamboland",
+       "value": 14
+      },
+      {
+       "name": "Windhoek",
+       "value": 29
+      },
+      {
+       "name": "Oshakati",
+       "value": 12
+      }
+     ]
+    },
+    {
+     "name": "Zaire",
+     "children": [
+      {
+       "name": "Kinshasa",
+       "value": 20
+      }
+     ]
+    },
+    {
+     "name": "Burundi",
+     "children": [
+      {
+       "name": "Bujumbura",
+       "value": 244
+      },
+      {
+       "name": "Cibitoke",
+       "value": 17
+      },
+      {
+       "name": "Gihanga",
+       "value": 12
+      },
+      {
+       "name": "Gitega",
+       "value": 39
+      },
+      {
+       "name": "Kayanza",
+       "value": 10
+      }
+     ]
+    },
+    {
+     "name": "Kenya",
+     "children": [
+      {
+       "name": "Liboi",
+       "value": 20
+      },
+      {
+       "name": "Ifo",
+       "value": 12
+      },
+      {
+       "name": "Mombasa",
+       "value": 35
+      },
+      {
+       "name": "Dadaab",
+       "value": 20
+      },
+      {
+       "name": "El Wak",
+       "value": 20
+      },
+      {
+       "name": "Garissa",
+       "value": 59
+      },
+      {
+       "name": "Mandera",
+       "value": 74
+      },
+      {
+       "name": "Lamu",
+       "value": 15
+      },
+      {
+       "name": "Wajir",
+       "value": 32
+      },
+      {
+       "name": "Nairobi",
+       "value": 84
+      }
+     ]
+    },
+    {
+     "name": "Democratic Republic of the Congo",
+     "children": [
+      {
+       "name": "Goma",
+       "value": 34
+      },
+      {
+       "name": "Oicha",
+       "value": 18
+      },
+      {
+       "name": "Rutshuru",
+       "value": 14
+      },
+      {
+       "name": "Dungu",
+       "value": 16
+      },
+      {
+       "name": "Beni",
+       "value": 62
+      },
+      {
+       "name": "Kinshasa",
+       "value": 18
+      },
+      {
+       "name": "Beni district",
+       "value": 12
+      },
+      {
+       "name": "Eringeti",
+       "value": 11
+      }
+     ]
+    },
+    {
+     "name": "South Sudan",
+     "children": [
+      {
+       "name": "Bentiu",
+       "value": 17
+      },
+      {
+       "name": "Juba",
+       "value": 17
+      },
+      {
+       "name": "Malakal",
+       "value": 11
+      }
+     ]
+    },
+    {
+     "name": "Lesotho",
+     "children": [
+      {
+       "name": "Maseru",
+       "value": 17
+      }
+     ]
+    },
+    {
+     "name": "Zambia",
+     "children": [
+      {
+       "name": "Lusaka",
+       "value": 27
+      }
+     ]
+    },
+    {
+     "name": "Zimbabwe",
+     "children": [
+      {
+       "name": "Harare",
+       "value": 21
+      },
+      {
+       "name": "Bulawayo",
+       "value": 11
+      },
+      {
+       "name": "Salisbury",
+       "value": 14
+      }
+     ]
+    },
+    {
+     "name": "Uganda",
+     "children": [
+      {
+       "name": "Gulu",
+       "value": 24
+      },
+      {
+       "name": "Kampala",
+       "value": 82
+      }
+     ]
+    },
+    {
+     "name": "Chad",
+     "children": [
+      {
+       "name": "N'Djamena",
+       "value": 14
+      }
+     ]
+    },
+    {
+     "name": "Ethiopia",
+     "children": [
+      {
+       "name": "Addis Ababa",
+       "value": 47
+      }
+     ]
+    },
+    {
+     "name": "Guinea",
+     "children": [
+      {
+       "name": "Conakry",
+       "value": 11
+      }
+     ]
+    },
+    {
+     "name": "Ivory Coast",
+     "children": [
+      {
+       "name": "Abidjan",
+       "value": 19
+      }
+     ]
+    },
+    {
+     "name": "Central African Republic",
+     "children": [
+      {
+       "name": "Bangui",
+       "value": 84
+      },
+      {
+       "name": "Bria",
+       "value": 10
+      },
+      {
+       "name": "Bambari",
+       "value": 22
+      },
+      {
+       "name": "Bangassou",
+       "value": 14
+      }
+     ]
+    },
+    {
+     "name": "Rwanda",
+     "children": [
+      {
+       "name": "Kigali",
+       "value": 55
+      }
+     ]
+    },
+    {
+     "name": "Liberia",
+     "children": [
+      {
+       "name": "Monrovia",
+       "value": 11
+      }
+     ]
+    },
+    {
+     "name": "Senegal",
+     "children": [
+      {
+       "name": "Ziguinchor",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "Rhodesia",
+     "children": [
+      {
+       "name": "Salisbury",
+       "value": 25
+      }
+     ]
+    },
+    {
+     "name": "Burkina Faso",
+     "children": [
+      {
+       "name": "Ouagadougou",
+       "value": 11
+      }
+     ]
+    },
+    {
+     "name": "Togo",
+     "children": [
+      {
+       "name": "Lome",
+       "value": 30
+      }
+     ]
+    },
+    {
+     "name": "Djibouti",
+     "children": [
+      {
+       "name": "Djibouti",
+       "value": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Western Europe",
+   "children": [
+    {
+     "name": "Spain",
+     "children": [
+      {
+       "name": "Marbella",
+       "value": 18
+      },
+      {
+       "name": "Amorebieta",
+       "value": 15
+      },
+      {
+       "name": "Zumarraga",
+       "value": 15
+      },
+      {
+       "name": "Santa Cruz de Tenerife",
+       "value": 10
+      },
+      {
+       "name": "Pontevedra",
+       "value": 17
+      },
+      {
+       "name": "Vizcaya district",
+       "value": 11
+      },
+      {
+       "name": "Renteria",
+       "value": 24
+      },
+      {
+       "name": "Vergara",
+       "value": 12
+      },
+      {
+       "name": "Pasajes",
+       "value": 25
+      },
+      {
+       "name": "Eibar",
+       "value": 27
+      },
+      {
+       "name": "Bilbao",
+       "value": 334
+      },
+      {
+       "name": "Las Arenas",
+       "value": 23
+      },
+      {
+       "name": "Malaga",
+       "value": 14
+      },
+      {
+       "name": "Logrono",
+       "value": 14
+      },
+      {
+       "name": "Elgoibar",
+       "value": 10
+      },
+      {
+       "name": "Arrasate",
+       "value": 16
+      },
+      {
+       "name": "Valladolid",
+       "value": 10
+      },
+      {
+       "name": "Hernani",
+       "value": 22
+      },
+      {
+       "name": "Barcelona",
+       "value": 221
+      },
+      {
+       "name": "Errenteria",
+       "value": 24
+      },
+      {
+       "name": "Algorta",
+       "value": 11
+      },
+      {
+       "name": "Seville",
+       "value": 31
+      },
+      {
+       "name": "Madrid",
+       "value": 414
+      },
+      {
+       "name": "Galdacano",
+       "value": 18
+      },
+      {
+       "name": "Santander",
+       "value": 23
+      },
+      {
+       "name": "Zarauz",
+       "value": 17
+      },
+      {
+       "name": "Vigo",
+       "value": 15
+      },
+      {
+       "name": "Irun",
+       "value": 37
+      },
+      {
+       "name": "A Coruna district",
+       "value": 20
+      },
+      {
+       "name": "Santurce",
+       "value": 17
+      },
+      {
+       "name": "Andoain",
+       "value": 12
+      },
+      {
+       "name": "Pamplona",
+       "value": 133
+      },
+      {
+       "name": "Zaragoza",
+       "value": 22
+      },
+      {
+       "name": "Las Palmas de Gran Canaria",
+       "value": 13
+      },
+      {
+       "name": "Villafranca de Ordizia",
+       "value": 23
+      },
+      {
+       "name": "Alicante",
+       "value": 18
+      },
+      {
+       "name": "Donostia-San Sebastian",
+       "value": 272
+      },
+      {
+       "name": "Elizalde",
+       "value": 20
+      },
+      {
+       "name": "San Sebastian",
+       "value": 39
+      },
+      {
+       "name": "Beasain",
+       "value": 12
+      },
+      {
+       "name": "Basauri",
+       "value": 22
+      },
+      {
+       "name": "Valencia",
+       "value": 49
+      },
+      {
+       "name": "Ondarroa",
+       "value": 11
+      },
+      {
+       "name": "Vitoria",
+       "value": 94
+      },
+      {
+       "name": "Guernica",
+       "value": 25
+      },
+      {
+       "name": "Getxo",
+       "value": 16
+      },
+      {
+       "name": "Durango",
+       "value": 26
+      },
+      {
+       "name": "Tolosa",
+       "value": 27
+      },
+      {
+       "name": "Azpeitia",
+       "value": 12
+      },
+      {
+       "name": "Portugalete",
+       "value": 18
+      },
+      {
+       "name": "Lasarte",
+       "value": 13
+      },
+      {
+       "name": "Barakaldo",
+       "value": 31
+      },
+      {
+       "name": "Santiago de Compostela",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "United Kingdom",
+     "children": [
+      {
+       "name": "Newtownabbey",
+       "value": 39
+      },
+      {
+       "name": "Lisnaskea",
+       "value": 18
+      },
+      {
+       "name": "Larne",
+       "value": 21
+      },
+      {
+       "name": "Glengormley",
+       "value": 10
+      },
+      {
+       "name": "Craigavon",
+       "value": 25
+      },
+      {
+       "name": "Killen",
+       "value": 14
+      },
+      {
+       "name": "Newry",
+       "value": 112
+      },
+      {
+       "name": "Antrim",
+       "value": 39
+      },
+      {
+       "name": "Birmingham",
+       "value": 18
+      },
+      {
+       "name": "Ballymoney",
+       "value": 13
+      },
+      {
+       "name": "Moy",
+       "value": 13
+      },
+      {
+       "name": "Newtownhamilton",
+       "value": 22
+      },
+      {
+       "name": "Strabane",
+       "value": 65
+      },
+      {
+       "name": "Lisburn",
+       "value": 56
+      },
+      {
+       "name": "Enniskillen",
+       "value": 20
+      },
+      {
+       "name": "Magherafelt",
+       "value": 18
+      },
+      {
+       "name": "Crossmaglen",
+       "value": 65
+      },
+      {
+       "name": "Sion Mills",
+       "value": 11
+      },
+      {
+       "name": "Bristol",
+       "value": 15
+      },
+      {
+       "name": "Newcastle",
+       "value": 11
+      },
+      {
+       "name": "Belfast",
+       "value": 2201
+      },
+      {
+       "name": "Armagh",
+       "value": 125
+      },
+      {
+       "name": "Portadown",
+       "value": 62
+      },
+      {
+       "name": "Belleek",
+       "value": 12
+      },
+      {
+       "name": "Carrickfergus",
+       "value": 13
+      },
+      {
+       "name": "Dungannon",
+       "value": 63
+      },
+      {
+       "name": "Keady",
+       "value": 15
+      },
+      {
+       "name": "Ballygawley",
+       "value": 14
+      },
+      {
+       "name": "Maghera",
+       "value": 12
+      },
+      {
+       "name": "Bangor",
+       "value": 13
+      },
+      {
+       "name": "Pomeroy",
+       "value": 13
+      },
+      {
+       "name": "Coalisland",
+       "value": 23
+      },
+      {
+       "name": "Derry",
+       "value": 19
+      },
+      {
+       "name": "Banbridge",
+       "value": 12
+      },
+      {
+       "name": "Castlewellan",
+       "value": 13
+      },
+      {
+       "name": "Ballycastle",
+       "value": 11
+      },
+      {
+       "name": "Lurgan",
+       "value": 72
+      },
+      {
+       "name": "Garvagh",
+       "value": 10
+      },
+      {
+       "name": "Londonderry",
+       "value": 389
+      },
+      {
+       "name": "Warrenpoint",
+       "value": 11
+      },
+      {
+       "name": "Leeds",
+       "value": 13
+      },
+      {
+       "name": "Manchester",
+       "value": 27
+      },
+      {
+       "name": "Cookstown",
+       "value": 30
+      },
+      {
+       "name": "Rosslea",
+       "value": 12
+      },
+      {
+       "name": "Aughnacloy",
+       "value": 12
+      },
+      {
+       "name": "Ballymena",
+       "value": 41
+      },
+      {
+       "name": "London",
+       "value": 401
+      },
+      {
+       "name": "Dunmurry",
+       "value": 14
+      },
+      {
+       "name": "Downpatrick",
+       "value": 14
+      },
+      {
+       "name": "Omagh",
+       "value": 30
+      },
+      {
+       "name": "Forkhill",
+       "value": 17
+      },
+      {
+       "name": "Newtownbutler",
+       "value": 11
+      },
+      {
+       "name": "Coleraine",
+       "value": 11
+      },
+      {
+       "name": "Castlederg",
+       "value": 22
+      }
+     ]
+    },
+    {
+     "name": "Germany",
+     "children": [
+      {
+       "name": "Dusseldorf",
+       "value": 11
+      },
+      {
+       "name": "Cologne",
+       "value": 34
+      },
+      {
+       "name": "Dresden",
+       "value": 11
+      },
+      {
+       "name": "Hamburg",
+       "value": 39
+      },
+      {
+       "name": "Frankfurt",
+       "value": 14
+      },
+      {
+       "name": "Bremen",
+       "value": 19
+      },
+      {
+       "name": "Berlin",
+       "value": 92
+      },
+      {
+       "name": "Duren",
+       "value": 10
+      },
+      {
+       "name": "Bonn",
+       "value": 10
+      },
+      {
+       "name": "Leipzig",
+       "value": 14
+      },
+      {
+       "name": "Hanover",
+       "value": 17
+      },
+      {
+       "name": "Munich",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "Sweden",
+     "children": [
+      {
+       "name": "Stockholm",
+       "value": 37
+      },
+      {
+       "name": "Gothenburg",
+       "value": 17
+      },
+      {
+       "name": "Malmo",
+       "value": 16
+      }
+     ]
+    },
+    {
+     "name": "West Germany (FRG)",
+     "children": [
+      {
+       "name": "Munich",
+       "value": 37
+      },
+      {
+       "name": "Dusseldorf",
+       "value": 16
+      },
+      {
+       "name": "West Berlin",
+       "value": 82
+      },
+      {
+       "name": "Hamburg",
+       "value": 44
+      },
+      {
+       "name": "Cologne",
+       "value": 26
+      },
+      {
+       "name": "Frankfurt",
+       "value": 84
+      },
+      {
+       "name": "Stuttgart",
+       "value": 11
+      },
+      {
+       "name": "Hanover",
+       "value": 10
+      },
+      {
+       "name": "Bonn",
+       "value": 16
+      },
+      {
+       "name": "Karlsruhe",
+       "value": 11
+      }
+     ]
+    },
+    {
+     "name": "France",
+     "children": [
+      {
+       "name": "Bonifacio",
+       "value": 22
+      },
+      {
+       "name": "Rennes",
+       "value": 13
+      },
+      {
+       "name": "Marseilles",
+       "value": 58
+      },
+      {
+       "name": "Toulouse",
+       "value": 35
+      },
+      {
+       "name": "Ajaccio",
+       "value": 305
+      },
+      {
+       "name": "Hendaye",
+       "value": 12
+      },
+      {
+       "name": "Bayonne",
+       "value": 35
+      },
+      {
+       "name": "Bastia",
+       "value": 226
+      },
+      {
+       "name": "Corte",
+       "value": 31
+      },
+      {
+       "name": "Nice",
+       "value": 31
+      },
+      {
+       "name": "Paris",
+       "value": 615
+      },
+      {
+       "name": "Marseille",
+       "value": 12
+      },
+      {
+       "name": "Propriano",
+       "value": 11
+      },
+      {
+       "name": "Lyon",
+       "value": 32
+      },
+      {
+       "name": "Ghisonaccia",
+       "value": 32
+      },
+      {
+       "name": "Porticcio",
+       "value": 19
+      },
+      {
+       "name": "Strasbourg",
+       "value": 16
+      },
+      {
+       "name": "Saint-Jean-de-Luz",
+       "value": 11
+      },
+      {
+       "name": "L'Ile-Rousse",
+       "value": 11
+      },
+      {
+       "name": "Borgo",
+       "value": 15
+      },
+      {
+       "name": "Tiuccia",
+       "value": 10
+      },
+      {
+       "name": "Anglet",
+       "value": 10
+      },
+      {
+       "name": "Aix-en-Provence",
+       "value": 14
+      },
+      {
+       "name": "Calvi",
+       "value": 20
+      },
+      {
+       "name": "Sagone",
+       "value": 32
+      },
+      {
+       "name": "Sartene",
+       "value": 12
+      },
+      {
+       "name": "Biarritz",
+       "value": 15
+      },
+      {
+       "name": "Porto-Vecchio",
+       "value": 54
+      }
+     ]
+    },
+    {
+     "name": "Italy",
+     "children": [
+      {
+       "name": "Venice",
+       "value": 25
+      },
+      {
+       "name": "Brescia",
+       "value": 20
+      },
+      {
+       "name": "Naples",
+       "value": 44
+      },
+      {
+       "name": "Trento",
+       "value": 10
+      },
+      {
+       "name": "Turin",
+       "value": 143
+      },
+      {
+       "name": "Bolzano",
+       "value": 28
+      },
+      {
+       "name": "Cagliari",
+       "value": 15
+      },
+      {
+       "name": "Como",
+       "value": 20
+      },
+      {
+       "name": "Padua",
+       "value": 20
+      },
+      {
+       "name": "Palermo",
+       "value": 10
+      },
+      {
+       "name": "Florence",
+       "value": 48
+      },
+      {
+       "name": "La Maddalena",
+       "value": 23
+      },
+      {
+       "name": "Milan",
+       "value": 198
+      },
+      {
+       "name": "Bologna",
+       "value": 50
+      },
+      {
+       "name": "Bergamo",
+       "value": 16
+      },
+      {
+       "name": "Genoa",
+       "value": 33
+      },
+      {
+       "name": "Rome",
+       "value": 550
+      }
+     ]
+    },
+    {
+     "name": "Belgium",
+     "children": [
+      {
+       "name": "Brussels",
+       "value": 114
+      },
+      {
+       "name": "Antwerp",
+       "value": 13
+      }
+     ]
+    },
+    {
+     "name": "Switzerland",
+     "children": [
+      {
+       "name": "Bern",
+       "value": 14
+      },
+      {
+       "name": "Geneva",
+       "value": 34
+      },
+      {
+       "name": "Zurich",
+       "value": 28
+      }
+     ]
+    },
+    {
+     "name": "Netherlands",
+     "children": [
+      {
+       "name": "Amsterdam",
+       "value": 42
+      },
+      {
+       "name": "Rotterdam",
+       "value": 10
+      },
+      {
+       "name": "The Hague",
+       "value": 32
+      }
+     ]
+    },
+    {
+     "name": "Greece",
+     "children": [
+      {
+       "name": "Thessaloniki",
+       "value": 111
+      },
+      {
+       "name": "Athens",
+       "value": 1037
+      },
+      {
+       "name": "Khania",
+       "value": 11
+      },
+      {
+       "name": "Piraeus",
+       "value": 33
+      },
+      {
+       "name": "Iraklion",
+       "value": 17
+      }
+     ]
+    },
+    {
+     "name": "Portugal",
+     "children": [
+      {
+       "name": "Lisbon",
+       "value": 73
+      }
+     ]
+    },
+    {
+     "name": "Austria",
+     "children": [
+      {
+       "name": "Vienna",
+       "value": 76
+      }
+     ]
+    },
+    {
+     "name": "Ireland",
+     "children": [
+      {
+       "name": "Dundalk",
+       "value": 12
+      },
+      {
+       "name": "Limerick",
+       "value": 11
+      },
+      {
+       "name": "Dublin",
+       "value": 122
+      },
+      {
+       "name": "Cork",
+       "value": 10
+      },
+      {
+       "name": "Drogheda",
+       "value": 11
+      }
+     ]
+    },
+    {
+     "name": "Cyprus",
+     "children": [
+      {
+       "name": "Limassol",
+       "value": 23
+      },
+      {
+       "name": "Larnaca",
+       "value": 11
+      },
+      {
+       "name": "Nicosia",
+       "value": 67
+      }
+     ]
+    },
+    {
+     "name": "Denmark",
+     "children": [
+      {
+       "name": "Copenhagen",
+       "value": 37
+      }
+     ]
+    },
+    {
+     "name": "Malta",
+     "children": [
+      {
+       "name": "Valletta",
+       "value": 10
+      }
+     ]
+    },
+    {
+     "name": "Norway",
+     "children": [
+      {
+       "name": "Oslo",
+       "value": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "South Asia",
+   "children": [
+    {
+     "name": "Pakistan",
+     "children": [
+      {
+       "name": "Lahore",
+       "value": 235
+      },
+      {
+       "name": "Bolan District",
+       "value": 14
+      },
+      {
+       "name": "Mir Ali",
+       "value": 56
+      },
+      {
+       "name": "Tank",
+       "value": 29
+      },
+      {
+       "name": "Kotri",
+       "value": 11
+      },
+      {
+       "name": "Sarband",
+       "value": 19
+      },
+      {
+       "name": "Bannu district",
+       "value": 38
+      },
+      {
+       "name": "Charsadda district",
+       "value": 17
+      },
+      {
+       "name": "Dalbandin",
+       "value": 16
+      },
+      {
+       "name": "Dera Allah Yar",
+       "value": 26
+      },
+      {
+       "name": "Jamshoro",
+       "value": 13
+      },
+      {
+       "name": "Khwazakhela",
+       "value": 11
+      },
+      {
+       "name": "Lehri",
+       "value": 17
+      },
+      {
+       "name": "Tank district",
+       "value": 24
+      },
+      {
+       "name": "Kohlu district",
+       "value": 21
+      },
+      {
+       "name": "Nawabshah",
+       "value": 16
+      },
+      {
+       "name": "Kalat district",
+       "value": 13
+      },
+      {
+       "name": "Mach",
+       "value": 20
+      },
+      {
+       "name": "Salarzai",
+       "value": 23
+      },
+      {
+       "name": "Surab",
+       "value": 14
+      },
+      {
+       "name": "Nowshera",
+       "value": 59
+      },
+      {
+       "name": "Jhang",
+       "value": 13
+      },
+      {
+       "name": "Halimzai",
+       "value": 22
+      },
+      {
+       "name": "Mand",
+       "value": 31
+      },
+      {
+       "name": "Charbagh",
+       "value": 21
+      },
+      {
+       "name": "Kharan",
+       "value": 19
+      },
+      {
+       "name": "Kurram district",
+       "value": 85
+      },
+      {
+       "name": "Angoor Ada",
+       "value": 11
+      },
+      {
+       "name": "Bajaur district",
+       "value": 124
+      },
+      {
+       "name": "Darra Adam Khel",
+       "value": 44
+      },
+      {
+       "name": "Khazana",
+       "value": 11
+      },
+      {
+       "name": "Wadh",
+       "value": 29
+      },
+      {
+       "name": "Chamarkand",
+       "value": 13
+      },
+      {
+       "name": "Jacobabad",
+       "value": 19
+      },
+      {
+       "name": "Jani Khel",
+       "value": 13
+      },
+      {
+       "name": "Chaman",
+       "value": 88
+      },
+      {
+       "name": "Jafarabad district",
+       "value": 12
+      },
+      {
+       "name": "Jaffarabad district",
+       "value": 24
+      },
+      {
+       "name": "Kharan district",
+       "value": 16
+      },
+      {
+       "name": "Doaba",
+       "value": 19
+      },
+      {
+       "name": "Jandola",
+       "value": 10
+      },
+      {
+       "name": "Khairabad",
+       "value": 11
+      },
+      {
+       "name": "Kalat",
+       "value": 36
+      },
+      {
+       "name": "Chattar",
+       "value": 39
+      },
+      {
+       "name": "Gujrat",
+       "value": 11
+      },
+      {
+       "name": "Swabi",
+       "value": 53
+      },
+      {
+       "name": "Multan",
+       "value": 47
+      },
+      {
+       "name": "Pishin",
+       "value": 12
+      },
+      {
+       "name": "Dera Murad Jamali",
+       "value": 77
+      },
+      {
+       "name": "Gujranwala",
+       "value": 22
+      },
+      {
+       "name": "Bahawalpur",
+       "value": 15
+      },
+      {
+       "name": "Dasht",
+       "value": 12
+      },
+      {
+       "name": "Kabal",
+       "value": 32
+      },
+      {
+       "name": "Mohmand district",
+       "value": 138
+      },
+      {
+       "name": "Thal",
+       "value": 13
+      },
+      {
+       "name": "Kulachi",
+       "value": 14
+      },
+      {
+       "name": "Karak",
+       "value": 12
+      },
+      {
+       "name": "Charsadda",
+       "value": 71
+      },
+      {
+       "name": "Mattani",
+       "value": 52
+      },
+      {
+       "name": "Maidan",
+       "value": 12
+      },
+      {
+       "name": "Nasirabad",
+       "value": 40
+      },
+      {
+       "name": "Machh",
+       "value": 33
+      },
+      {
+       "name": "Nawagai",
+       "value": 20
+      },
+      {
+       "name": "Sibi district",
+       "value": 14
+      },
+      {
+       "name": "Hyderabad",
+       "value": 109
+      },
+      {
+       "name": "Matta",
+       "value": 42
+      },
+      {
+       "name": "Razmak",
+       "value": 10
+      },
+      {
+       "name": "Gilgit",
+       "value": 24
+      },
+      {
+       "name": "Korangi",
+       "value": 11
+      },
+      {
+       "name": "Loti",
+       "value": 23
+      },
+      {
+       "name": "Islamabad",
+       "value": 150
+      },
+      {
+       "name": "Matta district",
+       "value": 16
+      },
+      {
+       "name": "Dir",
+       "value": 23
+      },
+      {
+       "name": "Mardan",
+       "value": 73
+      },
+      {
+       "name": "Faisalabad",
+       "value": 29
+      },
+      {
+       "name": "Awaran",
+       "value": 12
+      },
+      {
+       "name": "Hayatabad",
+       "value": 72
+      },
+      {
+       "name": "Hangu district",
+       "value": 19
+      },
+      {
+       "name": "Kech district",
+       "value": 40
+      },
+      {
+       "name": "Ghalanai",
+       "value": 17
+      },
+      {
+       "name": "Panjgur district",
+       "value": 40
+      },
+      {
+       "name": "Dadu",
+       "value": 10
+      },
+      {
+       "name": "Jamrud",
+       "value": 160
+      },
+      {
+       "name": "Spin Wam",
+       "value": 13
+      },
+      {
+       "name": "Kuchlak",
+       "value": 28
+      },
+      {
+       "name": "Turbat",
+       "value": 114
+      },
+      {
+       "name": "Datta Khel",
+       "value": 30
+      },
+      {
+       "name": "Sibi",
+       "value": 42
+      },
+      {
+       "name": "Dera Ismail Khan",
+       "value": 137
+      },
+      {
+       "name": "Akora Khattak",
+       "value": 10
+      },
+      {
+       "name": "Hazar Ganji",
+       "value": 14
+      },
+      {
+       "name": "Swabi district",
+       "value": 19
+      },
+      {
+       "name": "North Nazimabad",
+       "value": 16
+      },
+      {
+       "name": "Peshawar",
+       "value": 829
+      },
+      {
+       "name": "Parom",
+       "value": 10
+      },
+      {
+       "name": "Badaber",
+       "value": 68
+      },
+      {
+       "name": "Swat district",
+       "value": 49
+      },
+      {
+       "name": "Sialkot",
+       "value": 15
+      },
+      {
+       "name": "Dhadar",
+       "value": 11
+      },
+      {
+       "name": "Sardheri",
+       "value": 10
+      },
+      {
+       "name": "Hub",
+       "value": 65
+      },
+      {
+       "name": "Parachinar",
+       "value": 39
+      },
+      {
+       "name": "Safi",
+       "value": 65
+      },
+      {
+       "name": "Quetta",
+       "value": 848
+      },
+      {
+       "name": "Sohbatpur",
+       "value": 34
+      },
+      {
+       "name": "Dera Bugti",
+       "value": 153
+      },
+      {
+       "name": "Pasni",
+       "value": 33
+      },
+      {
+       "name": "Orakzai district",
+       "value": 86
+      },
+      {
+       "name": "North Waziristan district",
+       "value": 52
+      },
+      {
+       "name": "Kalaya",
+       "value": 14
+      },
+      {
+       "name": "Nushki",
+       "value": 33
+      },
+      {
+       "name": "Ladha",
+       "value": 13
+      },
+      {
+       "name": "Kohat",
+       "value": 93
+      },
+      {
+       "name": "Wana",
+       "value": 69
+      },
+      {
+       "name": "Khar",
+       "value": 49
+      },
+      {
+       "name": "Khyber district",
+       "value": 92
+      },
+      {
+       "name": "Torkham",
+       "value": 10
+      },
+      {
+       "name": "Hoshab",
+       "value": 15
+      },
+      {
+       "name": "Gadap",
+       "value": 12
+      },
+      {
+       "name": "Karachi",
+       "value": 2672
+      },
+      {
+       "name": "Gwadar",
+       "value": 41
+      },
+      {
+       "name": "Sadda",
+       "value": 22
+      },
+      {
+       "name": "Bannu",
+       "value": 147
+      },
+      {
+       "name": "Miran Shah",
+       "value": 114
+      },
+      {
+       "name": "Rawalpindi",
+       "value": 114
+      },
+      {
+       "name": "Aka Khel",
+       "value": 29
+      },
+      {
+       "name": "Alingar",
+       "value": 10
+      },
+      {
+       "name": "Miranshah",
+       "value": 10
+      },
+      {
+       "name": "Sukkur",
+       "value": 16
+      },
+      {
+       "name": "Nasirabad district",
+       "value": 22
+      },
+      {
+       "name": "Khuzdar district",
+       "value": 28
+      },
+      {
+       "name": "Sariab",
+       "value": 40
+      },
+      {
+       "name": "South Waziristan district",
+       "value": 63
+      },
+      {
+       "name": "Khairpur",
+       "value": 21
+      },
+      {
+       "name": "Awaran district",
+       "value": 22
+      },
+      {
+       "name": "Mamond",
+       "value": 11
+      },
+      {
+       "name": "Sargodha",
+       "value": 12
+      },
+      {
+       "name": "Loralai",
+       "value": 14
+      },
+      {
+       "name": "Buner district",
+       "value": 24
+      },
+      {
+       "name": "Mingora",
+       "value": 65
+      },
+      {
+       "name": "Pir Koh",
+       "value": 80
+      },
+      {
+       "name": "Barkhan",
+       "value": 14
+      },
+      {
+       "name": "Mastung",
+       "value": 56
+      },
+      {
+       "name": "Tump",
+       "value": 28
+      },
+      {
+       "name": "Mansehra",
+       "value": 12
+      },
+      {
+       "name": "Bara",
+       "value": 157
+      },
+      {
+       "name": "Masho Khel",
+       "value": 13
+      },
+      {
+       "name": "Panjgur",
+       "value": 63
+      },
+      {
+       "name": "Chamkani",
+       "value": 20
+      },
+      {
+       "name": "Hangu",
+       "value": 130
+      },
+      {
+       "name": "Mashkai",
+       "value": 17
+      },
+      {
+       "name": "Kohlu",
+       "value": 55
+      },
+      {
+       "name": "Larkana",
+       "value": 23
+      },
+      {
+       "name": "Mastung district",
+       "value": 38
+      },
+      {
+       "name": "Dera Bugti district",
+       "value": 69
+      },
+      {
+       "name": "Landi Kotal",
+       "value": 144
+      },
+      {
+       "name": "Khuzdar",
+       "value": 98
+      },
+      {
+       "name": "Lakki Marwat",
+       "value": 20
+      },
+      {
+       "name": "Shabqadar",
+       "value": 97
+      },
+      {
+       "name": "Gomal",
+       "value": 10
+      },
+      {
+       "name": "Sui",
+       "value": 117
+      },
+      {
+       "name": "Skaikhan",
+       "value": 10
+      }
+     ]
+    },
+    {
+     "name": "Afghanistan",
+     "children": [
+      {
+       "name": "Warduj district",
+       "value": 36
+      },
+      {
+       "name": "Sari Pul",
+       "value": 25
+      },
+      {
+       "name": "Kot district",
+       "value": 20
+      },
+      {
+       "name": "Dawlatabad district",
+       "value": 32
+      },
+      {
+       "name": "Bati Kot district",
+       "value": 46
+      },
+      {
+       "name": "Delaram district",
+       "value": 11
+      },
+      {
+       "name": "Asadabad",
+       "value": 55
+      },
+      {
+       "name": "Azra district",
+       "value": 15
+      },
+      {
+       "name": "Dih Yak district",
+       "value": 31
+      },
+      {
+       "name": "Kohsan district",
+       "value": 12
+      },
+      {
+       "name": "Naw Zad district",
+       "value": 31
+      },
+      {
+       "name": "Chahar Bolak district",
+       "value": 14
+      },
+      {
+       "name": "Sabari",
+       "value": 14
+      },
+      {
+       "name": "Gayan district",
+       "value": 11
+      },
+      {
+       "name": "Taloqan",
+       "value": 14
+      },
+      {
+       "name": "Bagram district",
+       "value": 11
+      },
+      {
+       "name": "Hisarak district",
+       "value": 23
+      },
+      {
+       "name": "Pachir Agam district",
+       "value": 17
+      },
+      {
+       "name": "Andkhoy district",
+       "value": 11
+      },
+      {
+       "name": "Baraki Barak",
+       "value": 15
+      },
+      {
+       "name": "Kunduz",
+       "value": 153
+      },
+      {
+       "name": "Garmsir district",
+       "value": 13
+      },
+      {
+       "name": "Pashtun Zarghun district",
+       "value": 14
+      },
+      {
+       "name": "Bakwa district",
+       "value": 23
+      },
+      {
+       "name": "Qala-i-Naw",
+       "value": 13
+      },
+      {
+       "name": "Charikar",
+       "value": 12
+      },
+      {
+       "name": "Pasaband district",
+       "value": 12
+      },
+      {
+       "name": "Muhmand Dara district",
+       "value": 20
+      },
+      {
+       "name": "Manogay",
+       "value": 14
+      },
+      {
+       "name": "Khogyani district",
+       "value": 52
+      },
+      {
+       "name": "Qalay-i-Zal district",
+       "value": 18
+      },
+      {
+       "name": "Saydabad district",
+       "value": 51
+      },
+      {
+       "name": "Alingar district",
+       "value": 29
+      },
+      {
+       "name": "Qarabagh",
+       "value": 22
+      },
+      {
+       "name": "Puli Alam",
+       "value": 96
+      },
+      {
+       "name": "Pusht Rod district",
+       "value": 35
+      },
+      {
+       "name": "Chashma Sher",
+       "value": 10
+      },
+      {
+       "name": "Khash Rod district",
+       "value": 37
+      },
+      {
+       "name": "Baharak district",
+       "value": 19
+      },
+      {
+       "name": "Taluqan",
+       "value": 15
+      },
+      {
+       "name": "Faizabad",
+       "value": 17
+      },
+      {
+       "name": "Muqur district",
+       "value": 51
+      },
+      {
+       "name": "Paghman district",
+       "value": 10
+      },
+      {
+       "name": "Taywara district",
+       "value": 13
+      },
+      {
+       "name": "Aqcha district",
+       "value": 20
+      },
+      {
+       "name": "Zana Khan district",
+       "value": 17
+      },
+      {
+       "name": "Jalrez district",
+       "value": 23
+      },
+      {
+       "name": "Chahar Dara",
+       "value": 13
+      },
+      {
+       "name": "Dahana-i-Ghuri district",
+       "value": 21
+      },
+      {
+       "name": "Lashkar Gah",
+       "value": 210
+      },
+      {
+       "name": "Daman district",
+       "value": 17
+      },
+      {
+       "name": "Aq Tapa",
+       "value": 13
+      },
+      {
+       "name": "Baghlan",
+       "value": 13
+      },
+      {
+       "name": "Mohammad Agha district",
+       "value": 31
+      },
+      {
+       "name": "Spin Boldak",
+       "value": 48
+      },
+      {
+       "name": "Bala Baluk district",
+       "value": 11
+      },
+      {
+       "name": "Farah Rud",
+       "value": 15
+      },
+      {
+       "name": "Kandahar",
+       "value": 390
+      },
+      {
+       "name": "Qadis district",
+       "value": 21
+      },
+      {
+       "name": "Kajaki",
+       "value": 12
+      },
+      {
+       "name": "Ghoryan district",
+       "value": 14
+      },
+      {
+       "name": "Muqur",
+       "value": 16
+      },
+      {
+       "name": "Chahar Dara district",
+       "value": 23
+      },
+      {
+       "name": "Charkh district",
+       "value": 20
+      },
+      {
+       "name": "Shewan",
+       "value": 17
+      },
+      {
+       "name": "Puli Alam district",
+       "value": 10
+      },
+      {
+       "name": "Fayzabad district",
+       "value": 12
+      },
+      {
+       "name": "Sharan",
+       "value": 14
+      },
+      {
+       "name": "Pashtun Kot district",
+       "value": 34
+      },
+      {
+       "name": "Sharana",
+       "value": 24
+      },
+      {
+       "name": "Yahya Khel district",
+       "value": 12
+      },
+      {
+       "name": "Morghab district",
+       "value": 21
+      },
+      {
+       "name": "Sari Pul district",
+       "value": 11
+      },
+      {
+       "name": "Sangin",
+       "value": 19
+      },
+      {
+       "name": "Shibirghan",
+       "value": 17
+      },
+      {
+       "name": "Jalalabad",
+       "value": 304
+      },
+      {
+       "name": "Deh Rahwod district",
+       "value": 31
+      },
+      {
+       "name": "Khwaja Sabz Posh district",
+       "value": 45
+      },
+      {
+       "name": "Gorbaz",
+       "value": 10
+      },
+      {
+       "name": "Nahri Saraj district",
+       "value": 95
+      },
+      {
+       "name": "Bagram",
+       "value": 50
+      },
+      {
+       "name": "Mizan district",
+       "value": 20
+      },
+      {
+       "name": "Obe district",
+       "value": 21
+      },
+      {
+       "name": "Chora district",
+       "value": 41
+      },
+      {
+       "name": "Achin district",
+       "value": 31
+      },
+      {
+       "name": "Andar district",
+       "value": 79
+      },
+      {
+       "name": "Shirzad district",
+       "value": 15
+      },
+      {
+       "name": "Sayyad district",
+       "value": 11
+      },
+      {
+       "name": "Spin Boldak district",
+       "value": 31
+      },
+      {
+       "name": "Panjwai district",
+       "value": 35
+      },
+      {
+       "name": "Chaparhar district",
+       "value": 26
+      },
+      {
+       "name": "Maydan Shahr",
+       "value": 40
+      },
+      {
+       "name": "Shindand district",
+       "value": 93
+      },
+      {
+       "name": "Kabul",
+       "value": 847
+      },
+      {
+       "name": "Maruf district",
+       "value": 28
+      },
+      {
+       "name": "Panjwai",
+       "value": 15
+      },
+      {
+       "name": "Tarin Kot",
+       "value": 121
+      },
+      {
+       "name": "Almar district",
+       "value": 40
+      },
+      {
+       "name": "Zurmat district",
+       "value": 18
+      },
+      {
+       "name": "Delaram",
+       "value": 22
+      },
+      {
+       "name": "Khost",
+       "value": 188
+      },
+      {
+       "name": "Marjah district",
+       "value": 12
+      },
+      {
+       "name": "Qarabagh district",
+       "value": 81
+      },
+      {
+       "name": "Dashti Qala district",
+       "value": 12
+      },
+      {
+       "name": "Bala Buluk district",
+       "value": 69
+      },
+      {
+       "name": "Shahjoy district",
+       "value": 47
+      },
+      {
+       "name": "Sangcharak district",
+       "value": 17
+      },
+      {
+       "name": "Maywand district",
+       "value": 71
+      },
+      {
+       "name": "Bahrami Shahid district",
+       "value": 13
+      },
+      {
+       "name": "Khaki Safed district",
+       "value": 22
+      },
+      {
+       "name": "Giro district",
+       "value": 23
+      },
+      {
+       "name": "Shahrak district",
+       "value": 12
+      },
+      {
+       "name": "Mihtarlam",
+       "value": 50
+      },
+      {
+       "name": "Tagab district",
+       "value": 48
+      },
+      {
+       "name": "Chapa Dara district",
+       "value": 19
+      },
+      {
+       "name": "Shah Wali Kot district",
+       "value": 37
+      },
+      {
+       "name": "Qaysar district",
+       "value": 45
+      },
+      {
+       "name": "Ghazni",
+       "value": 215
+      },
+      {
+       "name": "Gurziwan district",
+       "value": 14
+      },
+      {
+       "name": "Wata Pur district",
+       "value": 16
+      },
+      {
+       "name": "Khwaja Baha Wuddin district",
+       "value": 14
+      },
+      {
+       "name": "Gomal district",
+       "value": 10
+      },
+      {
+       "name": "Baghlani Jadid district",
+       "value": 57
+      },
+      {
+       "name": "Maymana",
+       "value": 39
+      },
+      {
+       "name": "Qalat",
+       "value": 90
+      },
+      {
+       "name": "Ghani Khel",
+       "value": 26
+      },
+      {
+       "name": "Chishti Sharif district",
+       "value": 11
+      },
+      {
+       "name": "Shamulzayi district",
+       "value": 11
+      },
+      {
+       "name": "Khas Kunar district",
+       "value": 14
+      },
+      {
+       "name": "Kamdesh district",
+       "value": 17
+      },
+      {
+       "name": "Nirkh district",
+       "value": 14
+      },
+      {
+       "name": "Surkh Rod district",
+       "value": 13
+      },
+      {
+       "name": "Gelan district",
+       "value": 21
+      },
+      {
+       "name": "Barmal district",
+       "value": 11
+      },
+      {
+       "name": "Chimtal district",
+       "value": 17
+      },
+      {
+       "name": "Arghistan district",
+       "value": 22
+      },
+      {
+       "name": "Kajaki district",
+       "value": 23
+      },
+      {
+       "name": "Jaghatu district",
+       "value": 15
+      },
+      {
+       "name": "Baraki Barak district",
+       "value": 31
+      },
+      {
+       "name": "Urgun district",
+       "value": 10
+      },
+      {
+       "name": "Khanabad",
+       "value": 10
+      },
+      {
+       "name": "Zahri district",
+       "value": 17
+      },
+      {
+       "name": "Arghandab",
+       "value": 17
+      },
+      {
+       "name": "Adraskan district",
+       "value": 19
+      },
+      {
+       "name": "Gereshk",
+       "value": 97
+      },
+      {
+       "name": "Argahandab district",
+       "value": 18
+      },
+      {
+       "name": "Alasay district",
+       "value": 11
+      },
+      {
+       "name": "Mazari Sharif",
+       "value": 53
+      },
+      {
+       "name": "Nawa-i-Barakzayi district",
+       "value": 38
+      },
+      {
+       "name": "Burka district",
+       "value": 17
+      },
+      {
+       "name": "Khas Uruzgan district",
+       "value": 32
+      },
+      {
+       "name": "Khakrez district",
+       "value": 17
+      },
+      {
+       "name": "Khairabad",
+       "value": 12
+      },
+      {
+       "name": "Waza Khwa district",
+       "value": 10
+      },
+      {
+       "name": "Waghaz district",
+       "value": 11
+      },
+      {
+       "name": "Darqad district",
+       "value": 15
+      },
+      {
+       "name": "Khanabad district",
+       "value": 24
+      },
+      {
+       "name": "Gizab district",
+       "value": 29
+      },
+      {
+       "name": "Musa Qala district",
+       "value": 56
+      },
+      {
+       "name": "Imam Sahib",
+       "value": 14
+      },
+      {
+       "name": "Charsada district",
+       "value": 13
+      },
+      {
+       "name": "Nijrab district",
+       "value": 25
+      },
+      {
+       "name": "Farah",
+       "value": 110
+      },
+      {
+       "name": "Gozarah",
+       "value": 12
+      },
+      {
+       "name": "Ghorak district",
+       "value": 17
+      },
+      {
+       "name": "Khwaja Ghar district",
+       "value": 27
+      },
+      {
+       "name": "Waygal district",
+       "value": 10
+      },
+      {
+       "name": "Sangin district",
+       "value": 122
+      },
+      {
+       "name": "Ali Shir",
+       "value": 12
+      },
+      {
+       "name": "Jani Khel district",
+       "value": 15
+      },
+      {
+       "name": "Nad Ali district",
+       "value": 67
+      },
+      {
+       "name": "Ghaziabad district",
+       "value": 11
+      },
+      {
+       "name": "Puli Khumri",
+       "value": 70
+      },
+      {
+       "name": "Shahidi Hassas district",
+       "value": 45
+      },
+      {
+       "name": "Arghandab district",
+       "value": 21
+      },
+      {
+       "name": "Ishkamish district",
+       "value": 14
+      },
+      {
+       "name": "Gulistan district",
+       "value": 13
+      },
+      {
+       "name": "Chaki Wardak district",
+       "value": 12
+      },
+      {
+       "name": "Shorabak district",
+       "value": 10
+      },
+      {
+       "name": "Ab Kamari district",
+       "value": 13
+      },
+      {
+       "name": "Imam Sahib district",
+       "value": 32
+      },
+      {
+       "name": "Jurm district",
+       "value": 15
+      },
+      {
+       "name": "Nad Ali",
+       "value": 18
+      },
+      {
+       "name": "Guzara district",
+       "value": 11
+      },
+      {
+       "name": "Kansak",
+       "value": 11
+      },
+      {
+       "name": "Koshki Kohna district",
+       "value": 10
+      },
+      {
+       "name": "Sarkani district",
+       "value": 11
+      },
+      {
+       "name": "Washer district",
+       "value": 12
+      },
+      {
+       "name": "Surobi district",
+       "value": 11
+      },
+      {
+       "name": "Shirin Tagab district",
+       "value": 52
+      },
+      {
+       "name": "Khogyani",
+       "value": 19
+      },
+      {
+       "name": "Nari district",
+       "value": 26
+      },
+      {
+       "name": "Shahr-e Safa",
+       "value": 21
+      },
+      {
+       "name": "Darzab district",
+       "value": 36
+      },
+      {
+       "name": "Injil district",
+       "value": 20
+      },
+      {
+       "name": "Zhari district",
+       "value": 34
+      },
+      {
+       "name": "Karukh district",
+       "value": 10
+      },
+      {
+       "name": "Asmar",
+       "value": 12
+      },
+      {
+       "name": "Kohistan district",
+       "value": 19
+      },
+      {
+       "name": "Dawlatabad",
+       "value": 12
+      },
+      {
+       "name": "Shindand",
+       "value": 38
+      },
+      {
+       "name": "Bihsud district",
+       "value": 31
+      },
+      {
+       "name": "Maywand",
+       "value": 15
+      },
+      {
+       "name": "Alishing district",
+       "value": 17
+      },
+      {
+       "name": "Marawara district",
+       "value": 31
+      },
+      {
+       "name": "Shinkay district",
+       "value": 13
+      },
+      {
+       "name": "Dashti Archi district",
+       "value": 31
+      },
+      {
+       "name": "Ghormach district",
+       "value": 30
+      },
+      {
+       "name": "Zaranj",
+       "value": 37
+      },
+      {
+       "name": "Naw Bahar district",
+       "value": 11
+      },
+      {
+       "name": "Saberi district",
+       "value": 17
+      },
+      {
+       "name": "Dangam district",
+       "value": 17
+      },
+      {
+       "name": "Torkham",
+       "value": 10
+      },
+      {
+       "name": "Feroz Koh",
+       "value": 28
+      },
+      {
+       "name": "Qush Tepa district",
+       "value": 37
+      },
+      {
+       "name": "Ab Band district",
+       "value": 21
+      },
+      {
+       "name": "Dushi district",
+       "value": 19
+      },
+      {
+       "name": "Chaparhar",
+       "value": 15
+      },
+      {
+       "name": "Deh Rahwod",
+       "value": 10
+      },
+      {
+       "name": "Herat",
+       "value": 139
+      },
+      {
+       "name": "Abdul Khel",
+       "value": 11
+      },
+      {
+       "name": "Gardez",
+       "value": 88
+      },
+      {
+       "name": "Chaharikar",
+       "value": 13
+      },
+      {
+       "name": "Marjah",
+       "value": 46
+      }
+     ]
+    },
+    {
+     "name": "India",
+     "children": [
+      {
+       "name": "Narayanpur",
+       "value": 17
+      },
+      {
+       "name": "Pattan",
+       "value": 16
+      },
+      {
+       "name": "Hajan",
+       "value": 12
+      },
+      {
+       "name": "Gurdaspur District",
+       "value": 10
+      },
+      {
+       "name": "Kishtwar",
+       "value": 12
+      },
+      {
+       "name": "Jalandhar",
+       "value": 35
+      },
+      {
+       "name": "Bastar district",
+       "value": 18
+      },
+      {
+       "name": "Bangalore",
+       "value": 20
+      },
+      {
+       "name": "Palamu district",
+       "value": 34
+      },
+      {
+       "name": "Karbi Anglong district",
+       "value": 22
+      },
+      {
+       "name": "Firozpur",
+       "value": 10
+      },
+      {
+       "name": "South Garo Hills district",
+       "value": 10
+      },
+      {
+       "name": "Khunti district",
+       "value": 23
+      },
+      {
+       "name": "Awantipora",
+       "value": 21
+      },
+      {
+       "name": "Dantewada district",
+       "value": 47
+      },
+      {
+       "name": "Sukma district",
+       "value": 54
+      },
+      {
+       "name": "Bokaro district",
+       "value": 23
+      },
+      {
+       "name": "Barpeta District",
+       "value": 17
+      },
+      {
+       "name": "Kalimela",
+       "value": 12
+      },
+      {
+       "name": "Sangrur",
+       "value": 14
+      },
+      {
+       "name": "Kolkata",
+       "value": 18
+      },
+      {
+       "name": "Pathankot",
+       "value": 11
+      },
+      {
+       "name": "Agartala",
+       "value": 11
+      },
+      {
+       "name": "Yaripora",
+       "value": 13
+      },
+      {
+       "name": "Senapati district",
+       "value": 11
+      },
+      {
+       "name": "Amritsar",
+       "value": 139
+      },
+      {
+       "name": "Kohima",
+       "value": 16
+      },
+      {
+       "name": "West Singhbhum district",
+       "value": 18
+      },
+      {
+       "name": "Bombay",
+       "value": 25
+      },
+      {
+       "name": "Anantnag district",
+       "value": 17
+      },
+      {
+       "name": "Gumla",
+       "value": 12
+      },
+      {
+       "name": "Memender",
+       "value": 10
+      },
+      {
+       "name": "Kokrajhar",
+       "value": 19
+      },
+      {
+       "name": "Kulgam",
+       "value": 24
+      },
+      {
+       "name": "Handwara",
+       "value": 16
+      },
+      {
+       "name": "Guwahati",
+       "value": 79
+      },
+      {
+       "name": "Kanker district",
+       "value": 28
+      },
+      {
+       "name": "Baramulla",
+       "value": 35
+      },
+      {
+       "name": "Imphal",
+       "value": 438
+      },
+      {
+       "name": "Gurdaspur",
+       "value": 13
+      },
+      {
+       "name": "Doda district",
+       "value": 19
+      },
+      {
+       "name": "Koraput",
+       "value": 13
+      },
+      {
+       "name": "Dimapur",
+       "value": 43
+      },
+      {
+       "name": "Giridih district",
+       "value": 22
+      },
+      {
+       "name": "Malkangiri district",
+       "value": 40
+      },
+      {
+       "name": "Hyderabad",
+       "value": 20
+      },
+      {
+       "name": "Williamnagar",
+       "value": 16
+      },
+      {
+       "name": "Shopian district",
+       "value": 24
+      },
+      {
+       "name": "Kupwara district",
+       "value": 12
+      },
+      {
+       "name": "Baramulla district",
+       "value": 17
+      },
+      {
+       "name": "Surat",
+       "value": 29
+      },
+      {
+       "name": "Bijapur district",
+       "value": 57
+      },
+      {
+       "name": "Dantewada",
+       "value": 34
+      },
+      {
+       "name": "Udalguri",
+       "value": 18
+      },
+      {
+       "name": "Golaghat district",
+       "value": 11
+      },
+      {
+       "name": "Tarn Taran",
+       "value": 20
+      },
+      {
+       "name": "Chandigarh",
+       "value": 47
+      },
+      {
+       "name": "Chennai",
+       "value": 33
+      },
+      {
+       "name": "Kupwara",
+       "value": 25
+      },
+      {
+       "name": "Chirang district",
+       "value": 13
+      },
+      {
+       "name": "Pampore",
+       "value": 14
+      },
+      {
+       "name": "Sukma",
+       "value": 15
+      },
+      {
+       "name": "Tral",
+       "value": 47
+      },
+      {
+       "name": "Doda",
+       "value": 19
+      },
+      {
+       "name": "Amritsar District",
+       "value": 25
+      },
+      {
+       "name": "Chatra",
+       "value": 12
+      },
+      {
+       "name": "Kakapora",
+       "value": 11
+      },
+      {
+       "name": "Etapalli",
+       "value": 10
+      },
+      {
+       "name": "Poonch",
+       "value": 19
+      },
+      {
+       "name": "Gauhati",
+       "value": 14
+      },
+      {
+       "name": "Kurseong",
+       "value": 19
+      },
+      {
+       "name": "Tamenglong district",
+       "value": 10
+      },
+      {
+       "name": "Diphu",
+       "value": 14
+      },
+      {
+       "name": "Gumla district",
+       "value": 11
+      },
+      {
+       "name": "Mirik",
+       "value": 11
+      },
+      {
+       "name": "Poonch district",
+       "value": 12
+      },
+      {
+       "name": "Delhi",
+       "value": 45
+      },
+      {
+       "name": "West Midnapore district",
+       "value": 41
+      },
+      {
+       "name": "Firozpur district",
+       "value": 13
+      },
+      {
+       "name": "Shillong",
+       "value": 21
+      },
+      {
+       "name": "Patna",
+       "value": 17
+      },
+      {
+       "name": "Rajouri",
+       "value": 22
+      },
+      {
+       "name": "Purulia district",
+       "value": 14
+      },
+      {
+       "name": "Ukhrul",
+       "value": 21
+      },
+      {
+       "name": "Jhargam",
+       "value": 14
+      },
+      {
+       "name": "Tinsukia district",
+       "value": 13
+      },
+      {
+       "name": "Basaguda",
+       "value": 14
+      },
+      {
+       "name": "Kalimpong",
+       "value": 13
+      },
+      {
+       "name": "West Garo Hills district",
+       "value": 10
+      },
+      {
+       "name": "Malkangiri",
+       "value": 26
+      },
+      {
+       "name": "Jammu",
+       "value": 60
+      },
+      {
+       "name": "Gadchiroli district",
+       "value": 28
+      },
+      {
+       "name": "Madurai",
+       "value": 21
+      },
+      {
+       "name": "Qazigund",
+       "value": 14
+      },
+      {
+       "name": "Chitrakonda",
+       "value": 12
+      },
+      {
+       "name": "Pahalgam",
+       "value": 17
+      },
+      {
+       "name": "Ahmedabad",
+       "value": 27
+      },
+      {
+       "name": "Shopian",
+       "value": 46
+      },
+      {
+       "name": "Srinagar",
+       "value": 687
+      },
+      {
+       "name": "Latehar district",
+       "value": 55
+      },
+      {
+       "name": "Bijapur",
+       "value": 34
+      },
+      {
+       "name": "Kokrajhar district",
+       "value": 38
+      },
+      {
+       "name": "Narayanpur district",
+       "value": 29
+      },
+      {
+       "name": "New Delhi",
+       "value": 159
+      },
+      {
+       "name": "Thoubal district",
+       "value": 13
+      },
+      {
+       "name": "East Garo Hills district",
+       "value": 15
+      },
+      {
+       "name": "Bhatinda",
+       "value": 17
+      },
+      {
+       "name": "Goalpara district",
+       "value": 15
+      },
+      {
+       "name": "Pulwama district",
+       "value": 22
+      },
+      {
+       "name": "Dhalai district",
+       "value": 10
+      },
+      {
+       "name": "Bandipora",
+       "value": 16
+      },
+      {
+       "name": "Sopore",
+       "value": 109
+      },
+      {
+       "name": "Imphal West district",
+       "value": 17
+      },
+      {
+       "name": "Darjeeling",
+       "value": 47
+      },
+      {
+       "name": "Haflong",
+       "value": 12
+      },
+      {
+       "name": "Bijbehara",
+       "value": 39
+      },
+      {
+       "name": "Bishnupur",
+       "value": 20
+      },
+      {
+       "name": "Thoubal",
+       "value": 24
+      },
+      {
+       "name": "Simdega district",
+       "value": 11
+      },
+      {
+       "name": "Gaya",
+       "value": 19
+      },
+      {
+       "name": "Sivasagar",
+       "value": 11
+      },
+      {
+       "name": "Dhanora",
+       "value": 13
+      },
+      {
+       "name": "Imam Sahib",
+       "value": 10
+      },
+      {
+       "name": "Imphal East district",
+       "value": 17
+      },
+      {
+       "name": "Faridkot",
+       "value": 10
+      },
+      {
+       "name": "Anantnag",
+       "value": 81
+      },
+      {
+       "name": "Bacheli",
+       "value": 11
+      },
+      {
+       "name": "Kondagaon district",
+       "value": 14
+      },
+      {
+       "name": "Rajnandgaon district",
+       "value": 11
+      },
+      {
+       "name": "Mumbai",
+       "value": 29
+      },
+      {
+       "name": "Pune",
+       "value": 11
+      },
+      {
+       "name": "Tinsukia",
+       "value": 17
+      },
+      {
+       "name": "Kandhamal district",
+       "value": 12
+      },
+      {
+       "name": "Aurangabad district",
+       "value": 11
+      },
+      {
+       "name": "Lalgarh",
+       "value": 26
+      },
+      {
+       "name": "Sundargarh district",
+       "value": 14
+      },
+      {
+       "name": "Balichanda",
+       "value": 11
+      },
+      {
+       "name": "Ukhrul district",
+       "value": 17
+      },
+      {
+       "name": "North Cachar Hills district",
+       "value": 21
+      },
+      {
+       "name": "Batala",
+       "value": 22
+      },
+      {
+       "name": "Chatra district",
+       "value": 10
+      },
+      {
+       "name": "Ludhiana",
+       "value": 77
+      },
+      {
+       "name": "Muzaffarpur",
+       "value": 12
+      },
+      {
+       "name": "Moreh",
+       "value": 29
+      },
+      {
+       "name": "Chintagupha",
+       "value": 15
+      },
+      {
+       "name": "Patiala",
+       "value": 16
+      },
+      {
+       "name": "Coimbatore",
+       "value": 21
+      },
+      {
+       "name": "Bongaigaon",
+       "value": 22
+      },
+      {
+       "name": "Ranchi",
+       "value": 21
+      },
+      {
+       "name": "Churachandpur",
+       "value": 17
+      },
+      {
+       "name": "Udhampur district",
+       "value": 12
+      },
+      {
+       "name": "Gaya district",
+       "value": 18
+      },
+      {
+       "name": "Kirandul",
+       "value": 12
+      },
+      {
+       "name": "Kangan",
+       "value": 10
+      },
+      {
+       "name": "Pulwama",
+       "value": 50
+      },
+      {
+       "name": "Koraput district",
+       "value": 22
+      }
+     ]
+    },
+    {
+     "name": "Sri Lanka",
+     "children": [
+      {
+       "name": "Jaffna",
+       "value": 191
+      },
+      {
+       "name": "Jaffna district",
+       "value": 24
+      },
+      {
+       "name": "Trincomalee district",
+       "value": 26
+      },
+      {
+       "name": "Vavuniya",
+       "value": 110
+      },
+      {
+       "name": "Batticaloa district",
+       "value": 52
+      },
+      {
+       "name": "Kurunegala",
+       "value": 10
+      },
+      {
+       "name": "Pottuvil",
+       "value": 11
+      },
+      {
+       "name": "Polonnaruwa",
+       "value": 12
+      },
+      {
+       "name": "Cheddikulam",
+       "value": 10
+      },
+      {
+       "name": "Mutur",
+       "value": 28
+      },
+      {
+       "name": "Ampara district",
+       "value": 30
+      },
+      {
+       "name": "Kilinochchi",
+       "value": 22
+      },
+      {
+       "name": "Chenkaladi",
+       "value": 12
+      },
+      {
+       "name": "Matara",
+       "value": 12
+      },
+      {
+       "name": "Mullaitivu",
+       "value": 30
+      },
+      {
+       "name": "Mannar District",
+       "value": 10
+      },
+      {
+       "name": "Chavakachcheri",
+       "value": 10
+      },
+      {
+       "name": "Trincomalee",
+       "value": 138
+      },
+      {
+       "name": "Mount Lavinia",
+       "value": 12
+      },
+      {
+       "name": "Mannar",
+       "value": 28
+      },
+      {
+       "name": "Palaly",
+       "value": 11
+      },
+      {
+       "name": "Kebethegollawa",
+       "value": 12
+      },
+      {
+       "name": "Dehiwala",
+       "value": 12
+      },
+      {
+       "name": "Eravur",
+       "value": 21
+      },
+      {
+       "name": "Batticaloa",
+       "value": 165
+      },
+      {
+       "name": "Kandy District",
+       "value": 12
+      },
+      {
+       "name": "Morawewa",
+       "value": 14
+      },
+      {
+       "name": "Ampara District",
+       "value": 14
+      },
+      {
+       "name": "Mankulam",
+       "value": 10
+      },
+      {
+       "name": "Akaraipattu",
+       "value": 14
+      },
+      {
+       "name": "Galle",
+       "value": 12
+      },
+      {
+       "name": "Batticaloa District",
+       "value": 21
+      },
+      {
+       "name": "Valaichchenai",
+       "value": 27
+      },
+      {
+       "name": "Point Pedro",
+       "value": 17
+      },
+      {
+       "name": "Selvanagar",
+       "value": 16
+      },
+      {
+       "name": "Kurunegala district",
+       "value": 14
+      },
+      {
+       "name": "Vavuniya District",
+       "value": 11
+      },
+      {
+       "name": "Panadura",
+       "value": 10
+      },
+      {
+       "name": "Welioya",
+       "value": 26
+      },
+      {
+       "name": "Vavuniya district",
+       "value": 15
+      },
+      {
+       "name": "Hambantota",
+       "value": 11
+      },
+      {
+       "name": "Kalmunai",
+       "value": 37
+      },
+      {
+       "name": "Kalawanchikudi",
+       "value": 18
+      },
+      {
+       "name": "Anuradhapura",
+       "value": 22
+      },
+      {
+       "name": "Colombo",
+       "value": 323
+      },
+      {
+       "name": "Kandy",
+       "value": 34
+      },
+      {
+       "name": "Ampara",
+       "value": 19
+      },
+      {
+       "name": "Kattankudy",
+       "value": 16
+      }
+     ]
+    },
+    {
+     "name": "Maldives",
+     "children": [
+      {
+       "name": "Male",
+       "value": 14
+      }
+     ]
+    },
+    {
+     "name": "Bangladesh",
+     "children": [
+      {
+       "name": "Mongla",
+       "value": 24
+      },
+      {
+       "name": "Chittagong",
+       "value": 144
+      },
+      {
+       "name": "Rangamati district",
+       "value": 14
+      },
+      {
+       "name": "Rajshahi",
+       "value": 37
+      },
+      {
+       "name": "Narayanganj",
+       "value": 11
+      },
+      {
+       "name": "Brahmanbaria",
+       "value": 20
+      },
+      {
+       "name": "Sylhet",
+       "value": 27
+      },
+      {
+       "name": "Jessore",
+       "value": 24
+      },
+      {
+       "name": "Cox's Bazar",
+       "value": 12
+      },
+      {
+       "name": "Dhaka",
+       "value": 558
+      },
+      {
+       "name": "Sirajganj",
+       "value": 13
+      },
+      {
+       "name": "Khulna",
+       "value": 37
+      }
+     ]
+    },
+    {
+     "name": "Nepal",
+     "children": [
+      {
+       "name": "Rautahat district",
+       "value": 10
+      },
+      {
+       "name": "Birganj",
+       "value": 28
+      },
+      {
+       "name": "Siraha district",
+       "value": 15
+      },
+      {
+       "name": "Gaur",
+       "value": 10
+      },
+      {
+       "name": "Janajpur",
+       "value": 17
+      },
+      {
+       "name": "Dhanusa district",
+       "value": 11
+      },
+      {
+       "name": "Saptari district",
+       "value": 14
+      },
+      {
+       "name": "Dhangadhi",
+       "value": 12
+      },
+      {
+       "name": "Lahan",
+       "value": 14
+      },
+      {
+       "name": "Lalitpur",
+       "value": 13
+      },
+      {
+       "name": "Dhading district",
+       "value": 11
+      },
+      {
+       "name": "Nepalganj",
+       "value": 23
+      },
+      {
+       "name": "Kathmandu",
+       "value": 134
+      },
+      {
+       "name": "Pokhara",
+       "value": 19
+      },
+      {
+       "name": "Rajbiraj",
+       "value": 29
+      },
+      {
+       "name": "Biratnagar",
+       "value": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Southeast Asia",
+   "children": [
+    {
+     "name": "Philippines",
+     "children": [
+      {
+       "name": "Makati",
+       "value": 16
+      },
+      {
+       "name": "Zamboanga city",
+       "value": 10
+      },
+      {
+       "name": "Iligan",
+       "value": 36
+      },
+      {
+       "name": "Butuan",
+       "value": 14
+      },
+      {
+       "name": "Wao",
+       "value": 13
+      },
+      {
+       "name": "Midsayap",
+       "value": 32
+      },
+      {
+       "name": "Ipil",
+       "value": 10
+      },
+      {
+       "name": "Tacurong",
+       "value": 28
+      },
+      {
+       "name": "Davao City",
+       "value": 104
+      },
+      {
+       "name": "Tipo-Tipo",
+       "value": 13
+      },
+      {
+       "name": "San Vicente",
+       "value": 12
+      },
+      {
+       "name": "Mabini",
+       "value": 15
+      },
+      {
+       "name": "Makilala",
+       "value": 15
+      },
+      {
+       "name": "Magsaysay",
+       "value": 13
+      },
+      {
+       "name": "Quezon City",
+       "value": 63
+      },
+      {
+       "name": "Monkayo",
+       "value": 13
+      },
+      {
+       "name": "Datu Piang",
+       "value": 24
+      },
+      {
+       "name": "Maco",
+       "value": 11
+      },
+      {
+       "name": "Quezon",
+       "value": 12
+      },
+      {
+       "name": "Isabela City",
+       "value": 14
+      },
+      {
+       "name": "Mati",
+       "value": 10
+      },
+      {
+       "name": "Mandaluyong",
+       "value": 10
+      },
+      {
+       "name": "Poblacion",
+       "value": 35
+      },
+      {
+       "name": "Santo Nino",
+       "value": 11
+      },
+      {
+       "name": "Timbangan",
+       "value": 12
+      },
+      {
+       "name": "Patikul",
+       "value": 25
+      },
+      {
+       "name": "Isulan",
+       "value": 13
+      },
+      {
+       "name": "manila",
+       "value": 20
+      },
+      {
+       "name": "San Juan",
+       "value": 16
+      },
+      {
+       "name": "Lamitan",
+       "value": 49
+      },
+      {
+       "name": "San Jose",
+       "value": 26
+      },
+      {
+       "name": "Zamboanga City",
+       "value": 160
+      },
+      {
+       "name": "Datu Unsay",
+       "value": 11
+      },
+      {
+       "name": "General Santos",
+       "value": 35
+      },
+      {
+       "name": "Tulunan",
+       "value": 14
+      },
+      {
+       "name": "Tuguegarao",
+       "value": 10
+      },
+      {
+       "name": "Labu-Labu",
+       "value": 12
+      },
+      {
+       "name": "Digos",
+       "value": 15
+      },
+      {
+       "name": "Pagadian",
+       "value": 35
+      },
+      {
+       "name": "Kabacan",
+       "value": 54
+      },
+      {
+       "name": "Tee",
+       "value": 11
+      },
+      {
+       "name": "Datu Salibo district",
+       "value": 11
+      },
+      {
+       "name": "Alamada",
+       "value": 10
+      },
+      {
+       "name": "San Isidro",
+       "value": 28
+      },
+      {
+       "name": "Shariff Aguak",
+       "value": 58
+      },
+      {
+       "name": "Tuburan",
+       "value": 16
+      },
+      {
+       "name": "Kauswagan",
+       "value": 13
+      },
+      {
+       "name": "Bacolod",
+       "value": 11
+      },
+      {
+       "name": "Koronadal",
+       "value": 20
+      },
+      {
+       "name": "San Miguel",
+       "value": 10
+      },
+      {
+       "name": "Pikit",
+       "value": 39
+      },
+      {
+       "name": "Carmen",
+       "value": 34
+      },
+      {
+       "name": "Salbu",
+       "value": 11
+      },
+      {
+       "name": "Baguio",
+       "value": 15
+      },
+      {
+       "name": "Sumisip",
+       "value": 22
+      },
+      {
+       "name": "San Antonio",
+       "value": 16
+      },
+      {
+       "name": "Iloilo City",
+       "value": 13
+      },
+      {
+       "name": "Cabanatuan",
+       "value": 15
+      },
+      {
+       "name": "Marawi",
+       "value": 78
+      },
+      {
+       "name": "Manila",
+       "value": 489
+      },
+      {
+       "name": "Datu Saudi Ampatuan",
+       "value": 11
+      },
+      {
+       "name": "Tagum",
+       "value": 10
+      },
+      {
+       "name": "Datu Odin Sinsuat",
+       "value": 18
+      },
+      {
+       "name": "Jolo",
+       "value": 82
+      },
+      {
+       "name": "Parang",
+       "value": 16
+      },
+      {
+       "name": "Kidapawan",
+       "value": 24
+      },
+      {
+       "name": "Ampatuan",
+       "value": 14
+      },
+      {
+       "name": "Paquibato",
+       "value": 10
+      },
+      {
+       "name": "Cagayan de Oro",
+       "value": 15
+      },
+      {
+       "name": "Matalam",
+       "value": 11
+      },
+      {
+       "name": "Cotabato City",
+       "value": 161
+      },
+      {
+       "name": "Maluso",
+       "value": 13
+      },
+      {
+       "name": "Isabela",
+       "value": 60
+      },
+      {
+       "name": "Cebu City",
+       "value": 21
+      },
+      {
+       "name": "Angeles",
+       "value": 34
+      }
+     ]
+    },
+    {
+     "name": "Thailand",
+     "children": [
+      {
+       "name": "Krong Pinang district",
+       "value": 11
+      },
+      {
+       "name": "Kapho",
+       "value": 10
+      },
+      {
+       "name": "Waeng",
+       "value": 10
+      },
+      {
+       "name": "Pattani",
+       "value": 62
+      },
+      {
+       "name": "Tak Bai district",
+       "value": 30
+      },
+      {
+       "name": "Muang district",
+       "value": 12
+      },
+      {
+       "name": "Hat Yai",
+       "value": 33
+      },
+      {
+       "name": "Khok Pho",
+       "value": 43
+      },
+      {
+       "name": "Waeng district",
+       "value": 16
+      },
+      {
+       "name": "Si Sakhon district",
+       "value": 15
+      },
+      {
+       "name": "Bo Thong",
+       "value": 10
+      },
+      {
+       "name": "Rangae district",
+       "value": 31
+      },
+      {
+       "name": "Yala",
+       "value": 140
+      },
+      {
+       "name": "Cho-airong district",
+       "value": 22
+      },
+      {
+       "name": "Tro Bon",
+       "value": 11
+      },
+      {
+       "name": "Sai Buri district",
+       "value": 31
+      },
+      {
+       "name": "Bannang Sata district",
+       "value": 30
+      },
+      {
+       "name": "Bacho",
+       "value": 39
+      },
+      {
+       "name": "Thung Yang Daeng district",
+       "value": 16
+      },
+      {
+       "name": "Panareh",
+       "value": 14
+      },
+      {
+       "name": "Chanae",
+       "value": 14
+      },
+      {
+       "name": "Chuap",
+       "value": 13
+      },
+      {
+       "name": "Yarang district",
+       "value": 34
+      },
+      {
+       "name": "Rusa Milae",
+       "value": 15
+      },
+      {
+       "name": "Sungai Kolok",
+       "value": 64
+      },
+      {
+       "name": "Muang",
+       "value": 114
+      },
+      {
+       "name": "Sungai Padi",
+       "value": 25
+      },
+      {
+       "name": "Tanyong Mat",
+       "value": 15
+      },
+      {
+       "name": "Muang Yala district",
+       "value": 30
+      },
+      {
+       "name": "Chanae district",
+       "value": 18
+      },
+      {
+       "name": "Rueso",
+       "value": 37
+      },
+      {
+       "name": "Yaha",
+       "value": 24
+      },
+      {
+       "name": "Ra-ngae",
+       "value": 27
+      },
+      {
+       "name": "Si Sakhon",
+       "value": 14
+      },
+      {
+       "name": "Than To district",
+       "value": 15
+      },
+      {
+       "name": "Raman",
+       "value": 51
+      },
+      {
+       "name": "Takbai",
+       "value": 11
+      },
+      {
+       "name": "Khok Pho district",
+       "value": 25
+      },
+      {
+       "name": "Yaring",
+       "value": 15
+      },
+      {
+       "name": "Than To",
+       "value": 16
+      },
+      {
+       "name": "Muang Narathiwat district",
+       "value": 11
+      },
+      {
+       "name": "Mayo district",
+       "value": 22
+      },
+      {
+       "name": "Yingo district",
+       "value": 14
+      },
+      {
+       "name": "Pasemat",
+       "value": 11
+      },
+      {
+       "name": "Sai Buri",
+       "value": 18
+      },
+      {
+       "name": "Bangkok",
+       "value": 219
+      },
+      {
+       "name": "Rangae",
+       "value": 23
+      },
+      {
+       "name": "Chiang Mai",
+       "value": 17
+      },
+      {
+       "name": "Mayo",
+       "value": 18
+      },
+      {
+       "name": "Panare district",
+       "value": 13
+      },
+      {
+       "name": "Sungai Padi district",
+       "value": 39
+      },
+      {
+       "name": "Nong Chik",
+       "value": 27
+      },
+      {
+       "name": "Sungai Kolok district",
+       "value": 14
+      },
+      {
+       "name": "Rangae (District)",
+       "value": 13
+      },
+      {
+       "name": "Bacho district",
+       "value": 22
+      },
+      {
+       "name": "Mae Sot",
+       "value": 12
+      },
+      {
+       "name": "Rueso district",
+       "value": 37
+      },
+      {
+       "name": "Saiburi",
+       "value": 26
+      },
+      {
+       "name": "Rusoh",
+       "value": 28
+      },
+      {
+       "name": "Panare",
+       "value": 15
+      },
+      {
+       "name": "Bannang Sata",
+       "value": 68
+      },
+      {
+       "name": "Nong Chik district",
+       "value": 27
+      },
+      {
+       "name": "Raman district",
+       "value": 33
+      },
+      {
+       "name": "Yaha district",
+       "value": 23
+      },
+      {
+       "name": "Thepha district",
+       "value": 13
+      },
+      {
+       "name": "Yarang",
+       "value": 51
+      },
+      {
+       "name": "Krong Pinang",
+       "value": 15
+      },
+      {
+       "name": "Muang Pattani district",
+       "value": 34
+      },
+      {
+       "name": "Narathiwat",
+       "value": 46
+      }
+     ]
+    },
+    {
+     "name": "Indonesia",
+     "children": [
+      {
+       "name": "Makassar",
+       "value": 11
+      },
+      {
+       "name": "Jakarta",
+       "value": 87
+      },
+      {
+       "name": "Dili",
+       "value": 34
+      },
+      {
+       "name": "Poso",
+       "value": 33
+      },
+      {
+       "name": "Timika",
+       "value": 12
+      },
+      {
+       "name": "Medan",
+       "value": 23
+      },
+      {
+       "name": "Lhokseumawe",
+       "value": 25
+      },
+      {
+       "name": "Banda Aceh",
+       "value": 43
+      },
+      {
+       "name": "Situbondo",
+       "value": 36
+      },
+      {
+       "name": "Ambon",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "Laos",
+     "children": [
+      {
+       "name": "Vientiane",
+       "value": 12
+      }
+     ]
+    },
+    {
+     "name": "Myanmar",
+     "children": [
+      {
+       "name": "Muse",
+       "value": 11
+      },
+      {
+       "name": "Mandalay",
+       "value": 17
+      },
+      {
+       "name": "Maungdaw",
+       "value": 16
+      },
+      {
+       "name": "Maungdaw district",
+       "value": 11
+      },
+      {
+       "name": "Yangon",
+       "value": 64
+      },
+      {
+       "name": "Myawaddy",
+       "value": 12
+      }
+     ]
+    },
+    {
+     "name": "Cambodia",
+     "children": [
+      {
+       "name": "Phnom Penh",
+       "value": 58
+      },
+      {
+       "name": "Battambang",
+       "value": 12
+      }
+     ]
+    },
+    {
+     "name": "Malaysia",
+     "children": [
+      {
+       "name": "Kuala Lumpur",
+       "value": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Middle East & North Africa",
+   "children": [
+    {
+     "name": "Yemen",
+     "children": [
+      {
+       "name": "Mahfad district",
+       "value": 14
+      },
+      {
+       "name": "Mukalla",
+       "value": 95
+      },
+      {
+       "name": "Marib",
+       "value": 77
+      },
+      {
+       "name": "Lahij",
+       "value": 72
+      },
+      {
+       "name": "Shihr",
+       "value": 10
+      },
+      {
+       "name": "Ataq",
+       "value": 33
+      },
+      {
+       "name": "Dhamar",
+       "value": 15
+      },
+      {
+       "name": "Taizz",
+       "value": 280
+      },
+      {
+       "name": "Qatn",
+       "value": 23
+      },
+      {
+       "name": "Qatn district",
+       "value": 16
+      },
+      {
+       "name": "Sanaa",
+       "value": 491
+      },
+      {
+       "name": "Lawdar",
+       "value": 37
+      },
+      {
+       "name": "Habilayn",
+       "value": 12
+      },
+      {
+       "name": "Sirwah district",
+       "value": 25
+      },
+      {
+       "name": "Ahwar",
+       "value": 11
+      },
+      {
+       "name": "Ad Dali",
+       "value": 14
+      },
+      {
+       "name": "Azzan",
+       "value": 13
+      },
+      {
+       "name": "Dali",
+       "value": 44
+      },
+      {
+       "name": "Udayn",
+       "value": 10
+      },
+      {
+       "name": "Mudiyah",
+       "value": 12
+      },
+      {
+       "name": "Lawdar district",
+       "value": 14
+      },
+      {
+       "name": "Shaykh Uthman",
+       "value": 105
+      },
+      {
+       "name": "Bayda",
+       "value": 43
+      },
+      {
+       "name": "Shoqra",
+       "value": 21
+      },
+      {
+       "name": "Aden",
+       "value": 306
+      },
+      {
+       "name": "Balhaf",
+       "value": 13
+      },
+      {
+       "name": "Dar Sad district",
+       "value": 10
+      },
+      {
+       "name": "Seiyun",
+       "value": 50
+      },
+      {
+       "name": "Nihm district",
+       "value": 14
+      },
+      {
+       "name": "Usaylan district",
+       "value": 17
+      },
+      {
+       "name": "Jaar",
+       "value": 22
+      },
+      {
+       "name": "Radaa district",
+       "value": 10
+      },
+      {
+       "name": "Zinjibar",
+       "value": 82
+      },
+      {
+       "name": "Mukha",
+       "value": 13
+      },
+      {
+       "name": "Radaa",
+       "value": 37
+      },
+      {
+       "name": "Ibb",
+       "value": 20
+      },
+      {
+       "name": "Ghayl Ba Wazir",
+       "value": 10
+      },
+      {
+       "name": "Amran",
+       "value": 20
+      },
+      {
+       "name": "Sadah",
+       "value": 10
+      },
+      {
+       "name": "Sirwah",
+       "value": 13
+      },
+      {
+       "name": "Hudaydah",
+       "value": 53
+      },
+      {
+       "name": "Shibam",
+       "value": 21
+      }
+     ]
+    },
+    {
+     "name": "Egypt",
+     "children": [
+      {
+       "name": "Hasna",
+       "value": 10
+      },
+      {
+       "name": "Sixth of October",
+       "value": 25
+      },
+      {
+       "name": "Qena",
+       "value": 12
+      },
+      {
+       "name": "Helwan",
+       "value": 18
+      },
+      {
+       "name": "Minya",
+       "value": 29
+      },
+      {
+       "name": "Asyut",
+       "value": 43
+      },
+      {
+       "name": "Cairo",
+       "value": 206
+      },
+      {
+       "name": "Abu Qurqas",
+       "value": 22
+      },
+      {
+       "name": "Port Said",
+       "value": 14
+      },
+      {
+       "name": "Damietta",
+       "value": 11
+      },
+      {
+       "name": "Tanta",
+       "value": 13
+      },
+      {
+       "name": "Arish",
+       "value": 540
+      },
+      {
+       "name": "Giza",
+       "value": 64
+      },
+      {
+       "name": "Zagazig",
+       "value": 18
+      },
+      {
+       "name": "Gora",
+       "value": 17
+      },
+      {
+       "name": "Alexandria",
+       "value": 53
+      },
+      {
+       "name": "Mallawi",
+       "value": 69
+      },
+      {
+       "name": "Dayrut",
+       "value": 24
+      },
+      {
+       "name": "Ismailia",
+       "value": 18
+      },
+      {
+       "name": "Masaeed",
+       "value": 11
+      },
+      {
+       "name": "Sheikh Zuweid",
+       "value": 265
+      },
+      {
+       "name": "Beni Suef",
+       "value": 20
+      },
+      {
+       "name": "Faiyum",
+       "value": 35
+      },
+      {
+       "name": "Rafah",
+       "value": 200
+      }
+     ]
+    },
+    {
+     "name": "Iraq",
+     "children": [
+      {
+       "name": "Rutbah district",
+       "value": 67
+      },
+      {
+       "name": "Hammam al-Alil",
+       "value": 67
+      },
+      {
+       "name": "Tuz Khormato",
+       "value": 290
+      },
+      {
+       "name": "Khalidiyah",
+       "value": 82
+      },
+      {
+       "name": "Rutbah",
+       "value": 48
+      },
+      {
+       "name": "Sadiyah",
+       "value": 91
+      },
+      {
+       "name": "Makhmur district",
+       "value": 21
+      },
+      {
+       "name": "Bashiqah",
+       "value": 22
+      },
+      {
+       "name": "Tharthar",
+       "value": 23
+      },
+      {
+       "name": "Barwana",
+       "value": 11
+      },
+      {
+       "name": "Imam Weis",
+       "value": 10
+      },
+      {
+       "name": "Bawi",
+       "value": 23
+      },
+      {
+       "name": "Ramadi",
+       "value": 518
+      },
+      {
+       "name": "Rashad",
+       "value": 31
+      },
+      {
+       "name": "Diwaniyah",
+       "value": 48
+      },
+      {
+       "name": "Wajihiyah",
+       "value": 24
+      },
+      {
+       "name": "Tarmiyah",
+       "value": 241
+      },
+      {
+       "name": "Dowr",
+       "value": 10
+      },
+      {
+       "name": "Habbaniyah",
+       "value": 17
+      },
+      {
+       "name": "Muqdadiyah",
+       "value": 227
+      },
+      {
+       "name": "Mahmudiyah",
+       "value": 217
+      },
+      {
+       "name": "Buhriz",
+       "value": 61
+      },
+      {
+       "name": "Khalis",
+       "value": 82
+      },
+      {
+       "name": "Balad district",
+       "value": 38
+      },
+      {
+       "name": "Kubaysah",
+       "value": 15
+      },
+      {
+       "name": "Musayib",
+       "value": 44
+      },
+      {
+       "name": "Saba al-Bor",
+       "value": 106
+      },
+      {
+       "name": "Kufa",
+       "value": 18
+      },
+      {
+       "name": "Hajjaj",
+       "value": 20
+      },
+      {
+       "name": "Mosul",
+       "value": 2309
+      },
+      {
+       "name": "Balad Ruz",
+       "value": 73
+      },
+      {
+       "name": "Nasiriyah",
+       "value": 51
+      },
+      {
+       "name": "Radwaniyah",
+       "value": 11
+      },
+      {
+       "name": "Azim",
+       "value": 46
+      },
+      {
+       "name": "Sulaymaniyah",
+       "value": 38
+      },
+      {
+       "name": "Nahrawan",
+       "value": 136
+      },
+      {
+       "name": "Himreen",
+       "value": 20
+      },
+      {
+       "name": "Baqubah",
+       "value": 752
+      },
+      {
+       "name": "Wihdah",
+       "value": 26
+      },
+      {
+       "name": "Kanaan",
+       "value": 26
+      },
+      {
+       "name": "Sufiyah",
+       "value": 19
+      },
+      {
+       "name": "Al-Abbarah",
+       "value": 13
+      },
+      {
+       "name": "Aziziyah",
+       "value": 11
+      },
+      {
+       "name": "Daquq district",
+       "value": 30
+      },
+      {
+       "name": "Hawijah district",
+       "value": 117
+      },
+      {
+       "name": "Bani Saad",
+       "value": 18
+      },
+      {
+       "name": "Tal Afar",
+       "value": 129
+      },
+      {
+       "name": "Hadithah",
+       "value": 72
+      },
+      {
+       "name": "Khan Bani Saad",
+       "value": 24
+      },
+      {
+       "name": "Rawah",
+       "value": 42
+      },
+      {
+       "name": "Hamidhiyah",
+       "value": 14
+      },
+      {
+       "name": "Qaim district",
+       "value": 12
+      },
+      {
+       "name": "Jurf al-Sakhr",
+       "value": 16
+      },
+      {
+       "name": "Daquq",
+       "value": 17
+      },
+      {
+       "name": "Tal Afar district",
+       "value": 18
+      },
+      {
+       "name": "Falahat",
+       "value": 16
+      },
+      {
+       "name": "Albu Faraj",
+       "value": 12
+      },
+      {
+       "name": "Al-Faris district",
+       "value": 10
+      },
+      {
+       "name": "Amiriyat al-Fallujah",
+       "value": 59
+      },
+      {
+       "name": "Abu Sayda",
+       "value": 44
+      },
+      {
+       "name": "Katun",
+       "value": 12
+      },
+      {
+       "name": "Dujail",
+       "value": 78
+      },
+      {
+       "name": "Duluiyah",
+       "value": 10
+      },
+      {
+       "name": "Waleed",
+       "value": 11
+      },
+      {
+       "name": "Suwayrah",
+       "value": 15
+      },
+      {
+       "name": "Makhmur",
+       "value": 12
+      },
+      {
+       "name": "Tall Safouk",
+       "value": 21
+      },
+      {
+       "name": "Badush",
+       "value": 20
+      },
+      {
+       "name": "Arbil",
+       "value": 37
+      },
+      {
+       "name": "Zaidan",
+       "value": 50
+      },
+      {
+       "name": "Hawijah",
+       "value": 116
+      },
+      {
+       "name": "Saqlawiyah",
+       "value": 74
+      },
+      {
+       "name": "Qarah Tapah",
+       "value": 42
+      },
+      {
+       "name": "Hillah",
+       "value": 144
+      },
+      {
+       "name": "Rasheed",
+       "value": 14
+      },
+      {
+       "name": "Madain",
+       "value": 274
+      },
+      {
+       "name": "Tikrit district",
+       "value": 60
+      },
+      {
+       "name": "Samarra district",
+       "value": 31
+      },
+      {
+       "name": "Zubair",
+       "value": 10
+      },
+      {
+       "name": "Hamamiyat",
+       "value": 45
+      },
+      {
+       "name": "Hawr Rajab",
+       "value": 55
+      },
+      {
+       "name": "Zafaraniyah",
+       "value": 11
+      },
+      {
+       "name": "Siniyah",
+       "value": 50
+      },
+      {
+       "name": "Hatra",
+       "value": 13
+      },
+      {
+       "name": "Samawah",
+       "value": 15
+      },
+      {
+       "name": "Haswah",
+       "value": 28
+      },
+      {
+       "name": "Fallujah",
+       "value": 584
+      },
+      {
+       "name": "Alam",
+       "value": 16
+      },
+      {
+       "name": "Rashidiyah",
+       "value": 29
+      },
+      {
+       "name": "Albu Hayat",
+       "value": 14
+      },
+      {
+       "name": "Imam Gharbi",
+       "value": 13
+      },
+      {
+       "name": "Sulayman Beg",
+       "value": 39
+      },
+      {
+       "name": "Husaybah",
+       "value": 14
+      },
+      {
+       "name": "Khanasah",
+       "value": 11
+      },
+      {
+       "name": "Sejar",
+       "value": 63
+      },
+      {
+       "name": "Shirqat district",
+       "value": 61
+      },
+      {
+       "name": "Kuwayr",
+       "value": 10
+      },
+      {
+       "name": "Nukhayb",
+       "value": 11
+      },
+      {
+       "name": "Zummar",
+       "value": 10
+      },
+      {
+       "name": "Yathrib",
+       "value": 51
+      },
+      {
+       "name": "Bay Hasan",
+       "value": 11
+      },
+      {
+       "name": "Jurf al-Sakhar",
+       "value": 44
+      },
+      {
+       "name": "Hadid",
+       "value": 13
+      },
+      {
+       "name": "Shirqat",
+       "value": 114
+      },
+      {
+       "name": "Baaj",
+       "value": 19
+      },
+      {
+       "name": "Balad Ruz district",
+       "value": 12
+      },
+      {
+       "name": "Mahawil",
+       "value": 26
+      },
+      {
+       "name": "Kirkuk district",
+       "value": 21
+      },
+      {
+       "name": "Latifiyah",
+       "value": 113
+      },
+      {
+       "name": "Husseiniyah",
+       "value": 105
+      },
+      {
+       "name": "Hadithah district",
+       "value": 16
+      },
+      {
+       "name": "Tikrit",
+       "value": 427
+      },
+      {
+       "name": "Mushahidah",
+       "value": 69
+      },
+      {
+       "name": "Rabiah",
+       "value": 11
+      },
+      {
+       "name": "Dibis district",
+       "value": 18
+      },
+      {
+       "name": "Jurf al-Sakhar district",
+       "value": 17
+      },
+      {
+       "name": "Karma",
+       "value": 153
+      },
+      {
+       "name": "Basra",
+       "value": 233
+      },
+      {
+       "name": "Qayarah",
+       "value": 32
+      },
+      {
+       "name": "Bashir",
+       "value": 45
+      },
+      {
+       "name": "Abu Ghraib",
+       "value": 332
+      },
+      {
+       "name": "Dulab",
+       "value": 36
+      },
+      {
+       "name": "Musayyib",
+       "value": 39
+      },
+      {
+       "name": "Sinjar district",
+       "value": 16
+      },
+      {
+       "name": "Jisr Diyala",
+       "value": 11
+      },
+      {
+       "name": "Dibis",
+       "value": 36
+      },
+      {
+       "name": "Baghdad",
+       "value": 7761
+      },
+      {
+       "name": "Baiji",
+       "value": 253
+      },
+      {
+       "name": "Mosul district",
+       "value": 20
+      },
+      {
+       "name": "Mandali",
+       "value": 30
+      },
+      {
+       "name": "Hit",
+       "value": 86
+      },
+      {
+       "name": "Ramadi district",
+       "value": 29
+      },
+      {
+       "name": "Mukhaysah",
+       "value": 14
+      },
+      {
+       "name": "Fallujah district",
+       "value": 17
+      },
+      {
+       "name": "Amarah",
+       "value": 28
+      },
+      {
+       "name": "Subayhat",
+       "value": 13
+      },
+      {
+       "name": "Al-Fathah",
+       "value": 18
+      },
+      {
+       "name": "Abu Ghraib district",
+       "value": 49
+      },
+      {
+       "name": "Dhuluiya",
+       "value": 45
+      },
+      {
+       "name": "Albu Shejel",
+       "value": 20
+      },
+      {
+       "name": "Khanaqin",
+       "value": 45
+      },
+      {
+       "name": "Sinjar",
+       "value": 45
+      },
+      {
+       "name": "Abu Karmah",
+       "value": 16
+      },
+      {
+       "name": "Ishaqi",
+       "value": 40
+      },
+      {
+       "name": "Amriyat al-Fallujah",
+       "value": 15
+      },
+      {
+       "name": "Karbala",
+       "value": 134
+      },
+      {
+       "name": "Khalis district",
+       "value": 12
+      },
+      {
+       "name": "Baiji district",
+       "value": 64
+      },
+      {
+       "name": "Tuz Khormato district",
+       "value": 71
+      },
+      {
+       "name": "Al-Halabisah",
+       "value": 21
+      },
+      {
+       "name": "Muqdadiyah district",
+       "value": 23
+      },
+      {
+       "name": "Zarkah",
+       "value": 16
+      },
+      {
+       "name": "Qaim",
+       "value": 53
+      },
+      {
+       "name": "Jaarah",
+       "value": 18
+      },
+      {
+       "name": "Kut",
+       "value": 65
+      },
+      {
+       "name": "Al-Baghdadi",
+       "value": 71
+      },
+      {
+       "name": "Muhallabiyah",
+       "value": 10
+      },
+      {
+       "name": "Khanaqin district",
+       "value": 16
+      },
+      {
+       "name": "Zab",
+       "value": 37
+      },
+      {
+       "name": "Najaf",
+       "value": 34
+      },
+      {
+       "name": "Balad",
+       "value": 119
+      },
+      {
+       "name": "Dawr",
+       "value": 30
+      },
+      {
+       "name": "Taza Khurmatu",
+       "value": 47
+      },
+      {
+       "name": "Mutaybijah",
+       "value": 24
+      },
+      {
+       "name": "Kirkuk",
+       "value": 986
+      },
+      {
+       "name": "Jalawla",
+       "value": 86
+      },
+      {
+       "name": "Taji",
+       "value": 242
+      },
+      {
+       "name": "Iskandariyah",
+       "value": 105
+      },
+      {
+       "name": "Dawr district",
+       "value": 120
+      },
+      {
+       "name": "Jalawlah",
+       "value": 34
+      },
+      {
+       "name": "Yusufiyah",
+       "value": 176
+      },
+      {
+       "name": "Adhaim",
+       "value": 53
+      },
+      {
+       "name": "Tulul al-Baj",
+       "value": 12
+      },
+      {
+       "name": "Riyadh",
+       "value": 74
+      },
+      {
+       "name": "Amerli",
+       "value": 10
+      },
+      {
+       "name": "Anah",
+       "value": 27
+      },
+      {
+       "name": "Shorah",
+       "value": 23
+      },
+      {
+       "name": "Samarra",
+       "value": 271
+      },
+      {
+       "name": "Qayyarah",
+       "value": 72
+      },
+      {
+       "name": "Radhwaniyah",
+       "value": 68
+      },
+      {
+       "name": "Hit district",
+       "value": 33
+      },
+      {
+       "name": "Albu Bali",
+       "value": 87
+      }
+     ]
+    },
+    {
+     "name": "Algeria",
+     "children": [
+      {
+       "name": "Sidi Bel Abbes",
+       "value": 11
+      },
+      {
+       "name": "Tiaret",
+       "value": 19
+      },
+      {
+       "name": "Tigzirt",
+       "value": 16
+      },
+      {
+       "name": "Ain Defla",
+       "value": 19
+      },
+      {
+       "name": "Boumerdes",
+       "value": 11
+      },
+      {
+       "name": "Tizi Ouzou",
+       "value": 37
+      },
+      {
+       "name": "Blida",
+       "value": 69
+      },
+      {
+       "name": "Lakhdaria",
+       "value": 33
+      },
+      {
+       "name": "Jijel",
+       "value": 16
+      },
+      {
+       "name": "Boumerd\u00e8s",
+       "value": 13
+      },
+      {
+       "name": "Algiers",
+       "value": 407
+      },
+      {
+       "name": "Chlef",
+       "value": 22
+      },
+      {
+       "name": "Baraki",
+       "value": 10
+      },
+      {
+       "name": "Zemmouri",
+       "value": 19
+      },
+      {
+       "name": "Boghni",
+       "value": 10
+      },
+      {
+       "name": "Tadmait",
+       "value": 12
+      },
+      {
+       "name": "Oran",
+       "value": 24
+      },
+      {
+       "name": "Bordj Menaiel",
+       "value": 19
+      },
+      {
+       "name": "Berrouaghia",
+       "value": 13
+      },
+      {
+       "name": "Kadiria",
+       "value": 10
+      },
+      {
+       "name": "Boufarik",
+       "value": 21
+      },
+      {
+       "name": "Dellys",
+       "value": 15
+      },
+      {
+       "name": "Constantine",
+       "value": 47
+      },
+      {
+       "name": "Khemis Miliana",
+       "value": 21
+      },
+      {
+       "name": "Aomar",
+       "value": 13
+      },
+      {
+       "name": "Batna",
+       "value": 14
+      },
+      {
+       "name": "Si Mustapha",
+       "value": 12
+      },
+      {
+       "name": "Bouira",
+       "value": 23
+      },
+      {
+       "name": "Tipaza",
+       "value": 14
+      },
+      {
+       "name": "Laghouat",
+       "value": 15
+      },
+      {
+       "name": "Larbaa",
+       "value": 11
+      },
+      {
+       "name": "Baghlia",
+       "value": 16
+      },
+      {
+       "name": "Djelfa",
+       "value": 14
+      },
+      {
+       "name": "Saida",
+       "value": 11
+      },
+      {
+       "name": "Thenia",
+       "value": 18
+      },
+      {
+       "name": "Medea",
+       "value": 33
+      }
+     ]
+    },
+    {
+     "name": "Libya",
+     "children": [
+      {
+       "name": "Labraq",
+       "value": 13
+      },
+      {
+       "name": "Sirte",
+       "value": 183
+      },
+      {
+       "name": "Nawfaliyah",
+       "value": 12
+      },
+      {
+       "name": "Beida",
+       "value": 23
+      },
+      {
+       "name": "Zawiya",
+       "value": 21
+      },
+      {
+       "name": "Zintan",
+       "value": 12
+      },
+      {
+       "name": "Misrata",
+       "value": 37
+      },
+      {
+       "name": "Bani Walid",
+       "value": 10
+      },
+      {
+       "name": "Tripoli",
+       "value": 395
+      },
+      {
+       "name": "Benghazi",
+       "value": 855
+      },
+      {
+       "name": "Benina",
+       "value": 15
+      },
+      {
+       "name": "Sidra",
+       "value": 17
+      },
+      {
+       "name": "Abu Qurayn",
+       "value": 18
+      },
+      {
+       "name": "Ras Lanuf",
+       "value": 13
+      },
+      {
+       "name": "Abu Hadi",
+       "value": 12
+      },
+      {
+       "name": "Ajdabiya",
+       "value": 48
+      },
+      {
+       "name": "Sabha",
+       "value": 50
+      },
+      {
+       "name": "Derna",
+       "value": 163
+      },
+      {
+       "name": "Tubruq",
+       "value": 22
+      },
+      {
+       "name": "Sabratah",
+       "value": 11
+      },
+      {
+       "name": "Harawah",
+       "value": 17
+      },
+      {
+       "name": "Wadi al-Haniwa",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "Syria",
+     "children": [
+      {
+       "name": "Jableh",
+       "value": 10
+      },
+      {
+       "name": "Hamah",
+       "value": 31
+      },
+      {
+       "name": "Harasta",
+       "value": 12
+      },
+      {
+       "name": "Qaryatayn",
+       "value": 10
+      },
+      {
+       "name": "Latakia",
+       "value": 10
+      },
+      {
+       "name": "Damascus",
+       "value": 386
+      },
+      {
+       "name": "Saraqib",
+       "value": 10
+      },
+      {
+       "name": "Mayadin",
+       "value": 13
+      },
+      {
+       "name": "Afrin",
+       "value": 16
+      },
+      {
+       "name": "Raqqah",
+       "value": 37
+      },
+      {
+       "name": "Deir ez-Zor",
+       "value": 59
+      },
+      {
+       "name": "Idlib",
+       "value": 50
+      },
+      {
+       "name": "Bab",
+       "value": 20
+      },
+      {
+       "name": "Marea",
+       "value": 10
+      },
+      {
+       "name": "Aleppo",
+       "value": 491
+      },
+      {
+       "name": "Jaramana",
+       "value": 11
+      },
+      {
+       "name": "Lattakia",
+       "value": 10
+      },
+      {
+       "name": "Qamishli",
+       "value": 27
+      },
+      {
+       "name": "Fuah",
+       "value": 16
+      },
+      {
+       "name": "Palmyra district",
+       "value": 10
+      },
+      {
+       "name": "Azaz",
+       "value": 20
+      },
+      {
+       "name": "Manbij",
+       "value": 14
+      },
+      {
+       "name": "Kafrayah",
+       "value": 12
+      },
+      {
+       "name": "Palmyra",
+       "value": 26
+      },
+      {
+       "name": "Hasakah",
+       "value": 35
+      },
+      {
+       "name": "Homs",
+       "value": 91
+      },
+      {
+       "name": "Daraa",
+       "value": 24
+      },
+      {
+       "name": "Kobani",
+       "value": 41
+      }
+     ]
+    },
+    {
+     "name": "Turkey",
+     "children": [
+      {
+       "name": "Cizre district",
+       "value": 22
+      },
+      {
+       "name": "Uludere",
+       "value": 10
+      },
+      {
+       "name": "Hakkari",
+       "value": 20
+      },
+      {
+       "name": "Van",
+       "value": 19
+      },
+      {
+       "name": "Lice",
+       "value": 16
+      },
+      {
+       "name": "Cizre",
+       "value": 46
+      },
+      {
+       "name": "Sanliurfa",
+       "value": 11
+      },
+      {
+       "name": "Batman",
+       "value": 31
+      },
+      {
+       "name": "Malatya",
+       "value": 10
+      },
+      {
+       "name": "Adana",
+       "value": 85
+      },
+      {
+       "name": "Ovacik",
+       "value": 11
+      },
+      {
+       "name": "Midyat",
+       "value": 21
+      },
+      {
+       "name": "Yuksekova district",
+       "value": 28
+      },
+      {
+       "name": "Antalya",
+       "value": 22
+      },
+      {
+       "name": "Pervari",
+       "value": 10
+      },
+      {
+       "name": "Kilis",
+       "value": 57
+      },
+      {
+       "name": "Suruc",
+       "value": 10
+      },
+      {
+       "name": "Semdinli district",
+       "value": 41
+      },
+      {
+       "name": "Semdinli",
+       "value": 21
+      },
+      {
+       "name": "Idil",
+       "value": 17
+      },
+      {
+       "name": "Beytussebap district",
+       "value": 20
+      },
+      {
+       "name": "Cukurca",
+       "value": 18
+      },
+      {
+       "name": "Sirnak",
+       "value": 48
+      },
+      {
+       "name": "Kiziltepe",
+       "value": 16
+      },
+      {
+       "name": "Izmir",
+       "value": 106
+      },
+      {
+       "name": "Bingol",
+       "value": 18
+      },
+      {
+       "name": "Lice district",
+       "value": 17
+      },
+      {
+       "name": "Dargecit",
+       "value": 10
+      },
+      {
+       "name": "Sur district",
+       "value": 32
+      },
+      {
+       "name": "Ankara",
+       "value": 290
+      },
+      {
+       "name": "Mardin",
+       "value": 17
+      },
+      {
+       "name": "Silvan",
+       "value": 18
+      },
+      {
+       "name": "Silopi district",
+       "value": 20
+      },
+      {
+       "name": "Bursa",
+       "value": 10
+      },
+      {
+       "name": "Nusaybin",
+       "value": 65
+      },
+      {
+       "name": "Silopi",
+       "value": 19
+      },
+      {
+       "name": "Silvan district",
+       "value": 19
+      },
+      {
+       "name": "Tunceli",
+       "value": 27
+      },
+      {
+       "name": "Yuksekova",
+       "value": 12
+      },
+      {
+       "name": "Nusaybin district",
+       "value": 18
+      },
+      {
+       "name": "Daglica",
+       "value": 14
+      },
+      {
+       "name": "Diyarbakir",
+       "value": 124
+      },
+      {
+       "name": "Gaziantep",
+       "value": 21
+      },
+      {
+       "name": "Kulp",
+       "value": 11
+      },
+      {
+       "name": "Dogubeyazit district",
+       "value": 13
+      },
+      {
+       "name": "Mersin",
+       "value": 14
+      },
+      {
+       "name": "Uludere district",
+       "value": 15
+      },
+      {
+       "name": "Reyhanli",
+       "value": 13
+      },
+      {
+       "name": "Cukurca district",
+       "value": 41
+      },
+      {
+       "name": "Siverek",
+       "value": 11
+      },
+      {
+       "name": "Istanbul",
+       "value": 1048
+      }
+     ]
+    },
+    {
+     "name": "Israel",
+     "children": [
+      {
+       "name": "Nahal Oz",
+       "value": 15
+      },
+      {
+       "name": "Ramla",
+       "value": 11
+      },
+      {
+       "name": "Hadera",
+       "value": 12
+      },
+      {
+       "name": "Kiryat Gat",
+       "value": 10
+      },
+      {
+       "name": "Netivot",
+       "value": 20
+      },
+      {
+       "name": "Petah Tikva",
+       "value": 11
+      },
+      {
+       "name": "Afula",
+       "value": 18
+      },
+      {
+       "name": "Tel Aviv",
+       "value": 156
+      },
+      {
+       "name": "Sederot",
+       "value": 50
+      },
+      {
+       "name": "Petah Tiqwa",
+       "value": 26
+      },
+      {
+       "name": "Haifa",
+       "value": 43
+      },
+      {
+       "name": "Erez",
+       "value": 20
+      },
+      {
+       "name": "Jerusalem",
+       "value": 487
+      },
+      {
+       "name": "Shaar HaNegev regional council",
+       "value": 29
+      },
+      {
+       "name": "Ashdod",
+       "value": 51
+      },
+      {
+       "name": "Sdot Negev regional council",
+       "value": 22
+      },
+      {
+       "name": "Kissufim",
+       "value": 26
+      },
+      {
+       "name": "Eshkol regional council",
+       "value": 71
+      },
+      {
+       "name": "Eilat",
+       "value": 19
+      },
+      {
+       "name": "Nahariyya",
+       "value": 12
+      },
+      {
+       "name": "Qiryat Shemona",
+       "value": 13
+      },
+      {
+       "name": "Sderot",
+       "value": 110
+      },
+      {
+       "name": "Kefar Sava",
+       "value": 18
+      },
+      {
+       "name": "Netanya",
+       "value": 25
+      },
+      {
+       "name": "Dimona",
+       "value": 12
+      },
+      {
+       "name": "Beersheba",
+       "value": 49
+      },
+      {
+       "name": "Ashkelon",
+       "value": 113
+      }
+     ]
+    },
+    {
+     "name": "Lebanon",
+     "children": [
+      {
+       "name": "Baalbek",
+       "value": 34
+      },
+      {
+       "name": "Jezzine",
+       "value": 32
+      },
+      {
+       "name": "Beirut",
+       "value": 914
+      },
+      {
+       "name": "Kfar Houneh",
+       "value": 10
+      },
+      {
+       "name": "Marjayoun",
+       "value": 19
+      },
+      {
+       "name": "Mount Lebanon",
+       "value": 17
+      },
+      {
+       "name": "Sejoud",
+       "value": 10
+      },
+      {
+       "name": "Tyre",
+       "value": 60
+      },
+      {
+       "name": "Aley",
+       "value": 10
+      },
+      {
+       "name": "Tripoli",
+       "value": 205
+      },
+      {
+       "name": "Arsal",
+       "value": 74
+      },
+      {
+       "name": "Nabatiyah",
+       "value": 10
+      },
+      {
+       "name": "Sidon",
+       "value": 189
+      },
+      {
+       "name": "Nabatiyeh",
+       "value": 23
+      },
+      {
+       "name": "Ain al-Hilweh",
+       "value": 44
+      },
+      {
+       "name": "Hermel",
+       "value": 29
+      },
+      {
+       "name": "Labweh",
+       "value": 13
+      }
+     ]
+    },
+    {
+     "name": "West Bank and Gaza Strip",
+     "children": [
+      {
+       "name": "Jabaliya",
+       "value": 20
+      },
+      {
+       "name": "Deir al-Balah",
+       "value": 11
+      },
+      {
+       "name": "Tekoa",
+       "value": 11
+      },
+      {
+       "name": "Qalandiyah",
+       "value": 13
+      },
+      {
+       "name": "Hebron",
+       "value": 206
+      },
+      {
+       "name": "Qalqilya",
+       "value": 15
+      },
+      {
+       "name": "Alon Shvut",
+       "value": 31
+      },
+      {
+       "name": "Tulkarem",
+       "value": 25
+      },
+      {
+       "name": "Ariel",
+       "value": 14
+      },
+      {
+       "name": "Kfar Darom",
+       "value": 20
+      },
+      {
+       "name": "Jericho",
+       "value": 19
+      },
+      {
+       "name": "Jenin",
+       "value": 66
+      },
+      {
+       "name": "Bethlehem",
+       "value": 58
+      },
+      {
+       "name": "Kiryat Arba",
+       "value": 23
+      },
+      {
+       "name": "Gush Qatif",
+       "value": 12
+      },
+      {
+       "name": "Bireh",
+       "value": 10
+      },
+      {
+       "name": "Rafah",
+       "value": 77
+      },
+      {
+       "name": "Beit Hanoun",
+       "value": 14
+      },
+      {
+       "name": "Kabatiya",
+       "value": 11
+      },
+      {
+       "name": "Maale Adumim",
+       "value": 10
+      },
+      {
+       "name": "Halhul",
+       "value": 13
+      },
+      {
+       "name": "Jerusalem",
+       "value": 158
+      },
+      {
+       "name": "Gaza",
+       "value": 342
+      },
+      {
+       "name": "Hawara",
+       "value": 19
+      },
+      {
+       "name": "Ramallah",
+       "value": 85
+      },
+      {
+       "name": "Netzarim",
+       "value": 37
+      },
+      {
+       "name": "Beit El",
+       "value": 17
+      },
+      {
+       "name": "Khan Yunis",
+       "value": 69
+      },
+      {
+       "name": "Nablus",
+       "value": 174
+      },
+      {
+       "name": "Ofra",
+       "value": 13
+      },
+      {
+       "name": "Tapuah",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "Iran",
+     "children": [
+      {
+       "name": "Mashhad",
+       "value": 21
+      },
+      {
+       "name": "Abadan",
+       "value": 11
+      },
+      {
+       "name": "Ahvaz",
+       "value": 34
+      },
+      {
+       "name": "Shiraz",
+       "value": 16
+      },
+      {
+       "name": "Tehran",
+       "value": 278
+      },
+      {
+       "name": "Saravan",
+       "value": 13
+      },
+      {
+       "name": "Zahedan",
+       "value": 20
+      },
+      {
+       "name": "Khorramshahr",
+       "value": 29
+      },
+      {
+       "name": "Isfahan",
+       "value": 12
+      }
+     ]
+    },
+    {
+     "name": "Saudi Arabia",
+     "children": [
+      {
+       "name": "Najran",
+       "value": 53
+      },
+      {
+       "name": "Awamiyah",
+       "value": 18
+      },
+      {
+       "name": "Jazan",
+       "value": 34
+      },
+      {
+       "name": "Jeddah",
+       "value": 14
+      },
+      {
+       "name": "Khamis Mushayt",
+       "value": 11
+      },
+      {
+       "name": "Riyadh",
+       "value": 39
+      },
+      {
+       "name": "Qatif",
+       "value": 17
+      }
+     ]
+    },
+    {
+     "name": "Morocco",
+     "children": [
+      {
+       "name": "Casablanca",
+       "value": 15
+      }
+     ]
+    },
+    {
+     "name": "Kuwait",
+     "children": [
+      {
+       "name": "Kuwait",
+       "value": 43
+      }
+     ]
+    },
+    {
+     "name": "Jordan",
+     "children": [
+      {
+       "name": "Amman",
+       "value": 74
+      }
+     ]
+    },
+    {
+     "name": "Bahrain",
+     "children": [
+      {
+       "name": "Sitra",
+       "value": 18
+      },
+      {
+       "name": "Manama",
+       "value": 40
+      },
+      {
+       "name": "Daih",
+       "value": 12
+      }
+     ]
+    },
+    {
+     "name": "Tunisia",
+     "children": [
+      {
+       "name": "Tunis",
+       "value": 17
+      },
+      {
+       "name": "Kasserine",
+       "value": 11
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "South America",
+   "children": [
+    {
+     "name": "Colombia",
+     "children": [
+      {
+       "name": "Pereira",
+       "value": 45
+      },
+      {
+       "name": "Tierralta",
+       "value": 11
+      },
+      {
+       "name": "Cimitarra",
+       "value": 27
+      },
+      {
+       "name": "Buenaventura district",
+       "value": 10
+      },
+      {
+       "name": "Miraflores",
+       "value": 17
+      },
+      {
+       "name": "Tibu district",
+       "value": 18
+      },
+      {
+       "name": "Tulua",
+       "value": 21
+      },
+      {
+       "name": "Orito",
+       "value": 11
+      },
+      {
+       "name": "Cali",
+       "value": 310
+      },
+      {
+       "name": "Cucuta district",
+       "value": 10
+      },
+      {
+       "name": "Toribio",
+       "value": 27
+      },
+      {
+       "name": "Fortul",
+       "value": 13
+      },
+      {
+       "name": "La Montanita",
+       "value": 11
+      },
+      {
+       "name": "Tibu",
+       "value": 50
+      },
+      {
+       "name": "Dabeiba",
+       "value": 13
+      },
+      {
+       "name": "Aguachica",
+       "value": 17
+      },
+      {
+       "name": "Sabana de Torres",
+       "value": 11
+      },
+      {
+       "name": "Barrancabermeja",
+       "value": 89
+      },
+      {
+       "name": "Bello",
+       "value": 10
+      },
+      {
+       "name": "Caloto",
+       "value": 16
+      },
+      {
+       "name": "Arauquita district",
+       "value": 21
+      },
+      {
+       "name": "Cartagena",
+       "value": 54
+      },
+      {
+       "name": "Itagui",
+       "value": 17
+      },
+      {
+       "name": "Currulao",
+       "value": 13
+      },
+      {
+       "name": "Puerto Colon",
+       "value": 14
+      },
+      {
+       "name": "Uraba",
+       "value": 39
+      },
+      {
+       "name": "Saravena",
+       "value": 67
+      },
+      {
+       "name": "Yondo",
+       "value": 10
+      },
+      {
+       "name": "El Tarra",
+       "value": 20
+      },
+      {
+       "name": "Taraza",
+       "value": 11
+      },
+      {
+       "name": "Segovia",
+       "value": 21
+      },
+      {
+       "name": "San Pablo",
+       "value": 17
+      },
+      {
+       "name": "Apartado",
+       "value": 53
+      },
+      {
+       "name": "Granada",
+       "value": 22
+      },
+      {
+       "name": "Quibdo",
+       "value": 10
+      },
+      {
+       "name": "Zaragoza",
+       "value": 19
+      },
+      {
+       "name": "La Union",
+       "value": 13
+      },
+      {
+       "name": "Santa Rosa",
+       "value": 12
+      },
+      {
+       "name": "Envigado",
+       "value": 10
+      },
+      {
+       "name": "Remedios",
+       "value": 14
+      },
+      {
+       "name": "El Carmen",
+       "value": 10
+      },
+      {
+       "name": "Palmira",
+       "value": 20
+      },
+      {
+       "name": "Villavicencio district",
+       "value": 11
+      },
+      {
+       "name": "Puerto Rico",
+       "value": 10
+      },
+      {
+       "name": "San Jose del Guaviare",
+       "value": 13
+      },
+      {
+       "name": "Miranda",
+       "value": 14
+      },
+      {
+       "name": "Cali district",
+       "value": 10
+      },
+      {
+       "name": "Popayan",
+       "value": 41
+      },
+      {
+       "name": "Ipiales",
+       "value": 19
+      },
+      {
+       "name": "Pitalito",
+       "value": 13
+      },
+      {
+       "name": "Morales",
+       "value": 10
+      },
+      {
+       "name": "Uribe",
+       "value": 10
+      },
+      {
+       "name": "San Carlos",
+       "value": 30
+      },
+      {
+       "name": "Arauquita",
+       "value": 19
+      },
+      {
+       "name": "Florencia district",
+       "value": 11
+      },
+      {
+       "name": "Tame",
+       "value": 33
+      },
+      {
+       "name": "Jambalo",
+       "value": 13
+      },
+      {
+       "name": "Santander de Quilichao",
+       "value": 17
+      },
+      {
+       "name": "Ibague",
+       "value": 21
+      },
+      {
+       "name": "Remedios district",
+       "value": 10
+      },
+      {
+       "name": "Florencia",
+       "value": 38
+      },
+      {
+       "name": "Curumani",
+       "value": 10
+      },
+      {
+       "name": "Neiva",
+       "value": 54
+      },
+      {
+       "name": "El Bagre",
+       "value": 16
+      },
+      {
+       "name": "Arauca",
+       "value": 44
+      },
+      {
+       "name": "La Hormiga",
+       "value": 11
+      },
+      {
+       "name": "Turbo",
+       "value": 24
+      },
+      {
+       "name": "San Vicente del Caguan",
+       "value": 13
+      },
+      {
+       "name": "Tumaco",
+       "value": 33
+      },
+      {
+       "name": "Armenia",
+       "value": 11
+      },
+      {
+       "name": "Puerto Boyaca",
+       "value": 14
+      },
+      {
+       "name": "Manizales",
+       "value": 13
+      },
+      {
+       "name": "Maicao",
+       "value": 11
+      },
+      {
+       "name": "Caceres",
+       "value": 11
+      },
+      {
+       "name": "Monteria",
+       "value": 16
+      },
+      {
+       "name": "Puerto Berrio",
+       "value": 11
+      },
+      {
+       "name": "Convencion",
+       "value": 10
+      },
+      {
+       "name": "Yumbo",
+       "value": 20
+      },
+      {
+       "name": "Ocana",
+       "value": 19
+      },
+      {
+       "name": "Barranquilla",
+       "value": 65
+      },
+      {
+       "name": "Medellin district",
+       "value": 45
+      },
+      {
+       "name": "Valledupar",
+       "value": 17
+      },
+      {
+       "name": "Puerto Valdivia",
+       "value": 12
+      },
+      {
+       "name": "Planadas",
+       "value": 12
+      },
+      {
+       "name": "Teorama",
+       "value": 24
+      },
+      {
+       "name": "Arauca district",
+       "value": 10
+      },
+      {
+       "name": "Bucaramanga",
+       "value": 114
+      },
+      {
+       "name": "Cucuta",
+       "value": 86
+      },
+      {
+       "name": "San Vicente de Chucuri",
+       "value": 11
+      },
+      {
+       "name": "Bogota",
+       "value": 986
+      },
+      {
+       "name": "Villavicencio",
+       "value": 16
+      },
+      {
+       "name": "Puerto Asis",
+       "value": 25
+      },
+      {
+       "name": "Corinto",
+       "value": 16
+      },
+      {
+       "name": "Florida",
+       "value": 15
+      },
+      {
+       "name": "Saravena district",
+       "value": 17
+      },
+      {
+       "name": "Buenaventura",
+       "value": 27
+      },
+      {
+       "name": "Medellin",
+       "value": 850
+      },
+      {
+       "name": "medellin",
+       "value": 13
+      },
+      {
+       "name": "Chigorodo",
+       "value": 15
+      },
+      {
+       "name": "Tame district",
+       "value": 12
+      },
+      {
+       "name": "Rio Negro",
+       "value": 20
+      },
+      {
+       "name": "La Paz",
+       "value": 13
+      },
+      {
+       "name": "Argelia",
+       "value": 19
+      },
+      {
+       "name": "Anori",
+       "value": 12
+      },
+      {
+       "name": "Bucaramanga district",
+       "value": 12
+      },
+      {
+       "name": "Bogota district",
+       "value": 13
+      },
+      {
+       "name": "Barrancabermeja district",
+       "value": 13
+      },
+      {
+       "name": "Toledo",
+       "value": 15
+      },
+      {
+       "name": "Santa Marta",
+       "value": 27
+      }
+     ]
+    },
+    {
+     "name": "Brazil",
+     "children": [
+      {
+       "name": "Sao Paulo",
+       "value": 59
+      },
+      {
+       "name": "Belo Horizonte",
+       "value": 14
+      },
+      {
+       "name": "Rio de Janeiro",
+       "value": 78
+      }
+     ]
+    },
+    {
+     "name": "Peru",
+     "children": [
+      {
+       "name": "Cerro de Pasco",
+       "value": 84
+      },
+      {
+       "name": "Huanta district",
+       "value": 13
+      },
+      {
+       "name": "Cabana",
+       "value": 10
+      },
+      {
+       "name": "Lurigancho",
+       "value": 23
+      },
+      {
+       "name": "Huancavelica",
+       "value": 41
+      },
+      {
+       "name": "Churcampa",
+       "value": 12
+      },
+      {
+       "name": "San Miguel",
+       "value": 12
+      },
+      {
+       "name": "Puno",
+       "value": 22
+      },
+      {
+       "name": "Huancavelica district",
+       "value": 39
+      },
+      {
+       "name": "Huancayo",
+       "value": 181
+      },
+      {
+       "name": "Cajamarca",
+       "value": 11
+      },
+      {
+       "name": "Ayacucho",
+       "value": 458
+      },
+      {
+       "name": "Chiclayo",
+       "value": 27
+      },
+      {
+       "name": "Huallaga district",
+       "value": 12
+      },
+      {
+       "name": "ayacucho",
+       "value": 11
+      },
+      {
+       "name": "Arequipa",
+       "value": 39
+      },
+      {
+       "name": "Huanuco",
+       "value": 17
+      },
+      {
+       "name": "La Mar district",
+       "value": 10
+      },
+      {
+       "name": "Tingo Maria",
+       "value": 32
+      },
+      {
+       "name": "Ica",
+       "value": 18
+      },
+      {
+       "name": "Vilcashuaman",
+       "value": 15
+      },
+      {
+       "name": "Trujillo",
+       "value": 33
+      },
+      {
+       "name": "Lima",
+       "value": 2359
+      },
+      {
+       "name": "Uchiza",
+       "value": 10
+      },
+      {
+       "name": "Tocache",
+       "value": 11
+      },
+      {
+       "name": "Huanta",
+       "value": 54
+      },
+      {
+       "name": "Huancayo district",
+       "value": 31
+      },
+      {
+       "name": "Huaraz",
+       "value": 45
+      },
+      {
+       "name": "Huacho",
+       "value": 21
+      },
+      {
+       "name": "Carhuanca",
+       "value": 19
+      },
+      {
+       "name": "Juliaca",
+       "value": 10
+      },
+      {
+       "name": "Tambo",
+       "value": 15
+      },
+      {
+       "name": "La Oroya",
+       "value": 15
+      },
+      {
+       "name": "San Francisco de Mosca",
+       "value": 10
+      },
+      {
+       "name": "Quinua",
+       "value": 11
+      },
+      {
+       "name": "Jajua district",
+       "value": 16
+      },
+      {
+       "name": "Huamachuco",
+       "value": 11
+      },
+      {
+       "name": "Cusco",
+       "value": 54
+      },
+      {
+       "name": "Mantaro district",
+       "value": 55
+      },
+      {
+       "name": "Callao",
+       "value": 54
+      },
+      {
+       "name": "Ayacucho district",
+       "value": 68
+      },
+      {
+       "name": "Barranca",
+       "value": 12
+      },
+      {
+       "name": "Jaen",
+       "value": 10
+      },
+      {
+       "name": "Huaral",
+       "value": 14
+      },
+      {
+       "name": "Santa Rosa",
+       "value": 21
+      },
+      {
+       "name": "Chimbote",
+       "value": 33
+      }
+     ]
+    },
+    {
+     "name": "Chile",
+     "children": [
+      {
+       "name": "Temuco",
+       "value": 40
+      },
+      {
+       "name": "Vina del Mar",
+       "value": 85
+      },
+      {
+       "name": "Rancagua",
+       "value": 25
+      },
+      {
+       "name": "Concepcion",
+       "value": 99
+      },
+      {
+       "name": "Vina Del Mar",
+       "value": 15
+      },
+      {
+       "name": "Quilpue",
+       "value": 11
+      },
+      {
+       "name": "Santiago",
+       "value": 1621
+      },
+      {
+       "name": "Valdivia",
+       "value": 10
+      },
+      {
+       "name": "Coquimbo",
+       "value": 15
+      },
+      {
+       "name": "Talca",
+       "value": 16
+      },
+      {
+       "name": "Valparaiso",
+       "value": 138
+      },
+      {
+       "name": "Talcahuano",
+       "value": 20
+      },
+      {
+       "name": "La Serena",
+       "value": 13
+      },
+      {
+       "name": "Chillan",
+       "value": 10
+      }
+     ]
+    },
+    {
+     "name": "Ecuador",
+     "children": [
+      {
+       "name": "Quito",
+       "value": 96
+      },
+      {
+       "name": "Guayaquil",
+       "value": 60
+      }
+     ]
+    },
+    {
+     "name": "Uruguay",
+     "children": [
+      {
+       "name": "Montevideo",
+       "value": 71
+      }
+     ]
+    },
+    {
+     "name": "Bolivia",
+     "children": [
+      {
+       "name": "Oruro",
+       "value": 12
+      },
+      {
+       "name": "El Alto",
+       "value": 14
+      },
+      {
+       "name": "Santa Cruz",
+       "value": 35
+      },
+      {
+       "name": "Cochabamba",
+       "value": 27
+      },
+      {
+       "name": "La Paz",
+       "value": 163
+      }
+     ]
+    },
+    {
+     "name": "Argentina",
+     "children": [
+      {
+       "name": "La Plata",
+       "value": 23
+      },
+      {
+       "name": "Mendoza",
+       "value": 16
+      },
+      {
+       "name": "San Miguel de Tucuman",
+       "value": 12
+      },
+      {
+       "name": "Buenos Aires",
+       "value": 463
+      },
+      {
+       "name": "Rosario",
+       "value": 29
+      },
+      {
+       "name": "Mar del Plata",
+       "value": 13
+      },
+      {
+       "name": "Cordoba",
+       "value": 78
+      }
+     ]
+    },
+    {
+     "name": "Venezuela",
+     "children": [
+      {
+       "name": "Caracas",
+       "value": 134
+      },
+      {
+       "name": "Guasdilito",
+       "value": 10
+      }
+     ]
+    },
+    {
+     "name": "Paraguay",
+     "children": [
+      {
+       "name": "Asuncion",
+       "value": 32
+      },
+      {
+       "name": "Tacuati",
+       "value": 10
+      }
+     ]
+    },
+    {
+     "name": "Suriname",
+     "children": [
+      {
+       "name": "Paramaribo",
+       "value": 16
+      },
+      {
+       "name": "Moengo",
+       "value": 16
+      }
+     ]
+    },
+    {
+     "name": "Guyana",
+     "children": [
+      {
+       "name": "Georgetown",
+       "value": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Central America & Caribbean",
+   "children": [
+    {
+     "name": "Guatemala",
+     "children": [
+      {
+       "name": "Coatepeque",
+       "value": 12
+      },
+      {
+       "name": "Palin",
+       "value": 10
+      },
+      {
+       "name": "Quetzaltenango",
+       "value": 16
+      },
+      {
+       "name": "Nebaj",
+       "value": 18
+      },
+      {
+       "name": "Huehuetenango",
+       "value": 12
+      },
+      {
+       "name": "Coban",
+       "value": 12
+      },
+      {
+       "name": "Mazatenango",
+       "value": 10
+      },
+      {
+       "name": "La Libertad",
+       "value": 10
+      },
+      {
+       "name": "Escuintla",
+       "value": 23
+      },
+      {
+       "name": "Guatemala City",
+       "value": 764
+      },
+      {
+       "name": "San Pedro Jocopilas",
+       "value": 10
+      },
+      {
+       "name": "Playa Grande",
+       "value": 12
+      },
+      {
+       "name": "Amatitlan",
+       "value": 11
+      },
+      {
+       "name": "Guatemala city",
+       "value": 77
+      },
+      {
+       "name": "Villa Nueva",
+       "value": 10
+      },
+      {
+       "name": "Chajul",
+       "value": 10
+      },
+      {
+       "name": "Solola",
+       "value": 10
+      },
+      {
+       "name": "San Marcos",
+       "value": 20
+      }
+     ]
+    },
+    {
+     "name": "El Salvador",
+     "children": [
+      {
+       "name": "San Miguel",
+       "value": 147
+      },
+      {
+       "name": "La Union",
+       "value": 14
+      },
+      {
+       "name": "Tejutepeque",
+       "value": 27
+      },
+      {
+       "name": "Tierra Blanca",
+       "value": 15
+      },
+      {
+       "name": "San Jose de las Flores",
+       "value": 16
+      },
+      {
+       "name": "San Fernando",
+       "value": 15
+      },
+      {
+       "name": "Torola",
+       "value": 19
+      },
+      {
+       "name": "Jiquilisco",
+       "value": 24
+      },
+      {
+       "name": "Usulutan",
+       "value": 76
+      },
+      {
+       "name": "Ilobasco",
+       "value": 24
+      },
+      {
+       "name": "Ciudad Barrios",
+       "value": 27
+      },
+      {
+       "name": "Chinameca",
+       "value": 17
+      },
+      {
+       "name": "Jutiapa",
+       "value": 10
+      },
+      {
+       "name": "Sesori",
+       "value": 14
+      },
+      {
+       "name": "San Esteban Catarina",
+       "value": 10
+      },
+      {
+       "name": "San Jorge",
+       "value": 11
+      },
+      {
+       "name": "Cinquera",
+       "value": 27
+      },
+      {
+       "name": "Lolotique",
+       "value": 12
+      },
+      {
+       "name": "Tecoluca",
+       "value": 31
+      },
+      {
+       "name": "Caserio El Dique",
+       "value": 19
+      },
+      {
+       "name": "San Lorenzo",
+       "value": 12
+      },
+      {
+       "name": "Nueva Concepcion",
+       "value": 14
+      },
+      {
+       "name": "San Rafael Cedros",
+       "value": 31
+      },
+      {
+       "name": "Tejutla",
+       "value": 23
+      },
+      {
+       "name": "Chalchuapa",
+       "value": 13
+      },
+      {
+       "name": "Las Vueltas",
+       "value": 20
+      },
+      {
+       "name": "Joateca",
+       "value": 10
+      },
+      {
+       "name": "Embalse Cerron Grande",
+       "value": 18
+      },
+      {
+       "name": "San Sebastian",
+       "value": 16
+      },
+      {
+       "name": "Guazapa",
+       "value": 27
+      },
+      {
+       "name": "San Vicente",
+       "value": 98
+      },
+      {
+       "name": "Osicala",
+       "value": 18
+      },
+      {
+       "name": "Sonsonate",
+       "value": 21
+      },
+      {
+       "name": "Chalatenango",
+       "value": 39
+      },
+      {
+       "name": "Quezaltepeque",
+       "value": 26
+      },
+      {
+       "name": "Jucuapa",
+       "value": 34
+      },
+      {
+       "name": "Berlin",
+       "value": 33
+      },
+      {
+       "name": "Agua Caliente",
+       "value": 12
+      },
+      {
+       "name": "San Salvador",
+       "value": 1560
+      },
+      {
+       "name": "Cuscatancingo",
+       "value": 12
+      },
+      {
+       "name": "Gotera",
+       "value": 14
+      },
+      {
+       "name": "Santa Ana",
+       "value": 177
+      },
+      {
+       "name": "Jocoro",
+       "value": 11
+      },
+      {
+       "name": "Sensuntepeque",
+       "value": 11
+      },
+      {
+       "name": "Sociedad",
+       "value": 12
+      },
+      {
+       "name": "Corinto",
+       "value": 14
+      },
+      {
+       "name": "Perquin",
+       "value": 17
+      },
+      {
+       "name": "El Triunfo",
+       "value": 18
+      },
+      {
+       "name": "Nueva Granada",
+       "value": 10
+      },
+      {
+       "name": "Santiago de Maria",
+       "value": 46
+      },
+      {
+       "name": "Soyapango",
+       "value": 50
+      },
+      {
+       "name": "Santa Tecla",
+       "value": 35
+      },
+      {
+       "name": "San Agustin",
+       "value": 28
+      },
+      {
+       "name": "Apopa",
+       "value": 58
+      },
+      {
+       "name": "Zacatecoluca",
+       "value": 43
+      },
+      {
+       "name": "San Jose Guayabal",
+       "value": 22
+      },
+      {
+       "name": "Jucuaran",
+       "value": 16
+      },
+      {
+       "name": "Mexicanos",
+       "value": 14
+      },
+      {
+       "name": "Santa Clara",
+       "value": 17
+      },
+      {
+       "name": "Suchitoto",
+       "value": 61
+      },
+      {
+       "name": "Nejapa",
+       "value": 29
+      },
+      {
+       "name": "Aguilares",
+       "value": 37
+      },
+      {
+       "name": "Jocoaitique",
+       "value": 18
+      },
+      {
+       "name": "Ahuachapan",
+       "value": 20
+      },
+      {
+       "name": "Cojutepeque",
+       "value": 12
+      },
+      {
+       "name": "La Palma",
+       "value": 10
+      },
+      {
+       "name": "Tenancingo",
+       "value": 12
+      },
+      {
+       "name": "San Martin",
+       "value": 15
+      },
+      {
+       "name": "San Ramon",
+       "value": 16
+      },
+      {
+       "name": "Dulce Nombre de Maria",
+       "value": 25
+      },
+      {
+       "name": "Metapan",
+       "value": 23
+      },
+      {
+       "name": "San Juan Opico",
+       "value": 11
+      },
+      {
+       "name": "Cacaopera",
+       "value": 11
+      },
+      {
+       "name": "Delgado",
+       "value": 12
+      }
+     ]
+    },
+    {
+     "name": "Nicaragua",
+     "children": [
+      {
+       "name": "Wiwili",
+       "value": 21
+      },
+      {
+       "name": "Managua",
+       "value": 199
+      },
+      {
+       "name": "Jinotega",
+       "value": 20
+      },
+      {
+       "name": "Matagalpa",
+       "value": 17
+      },
+      {
+       "name": "Jinotega district",
+       "value": 17
+      },
+      {
+       "name": "Leon",
+       "value": 39
+      },
+      {
+       "name": "Esteli district",
+       "value": 12
+      },
+      {
+       "name": "Quilali",
+       "value": 26
+      },
+      {
+       "name": "Corinto",
+       "value": 12
+      },
+      {
+       "name": "Waslala",
+       "value": 15
+      },
+      {
+       "name": "San Jose de Bocay",
+       "value": 14
+      }
+     ]
+    },
+    {
+     "name": "Jamaica",
+     "children": [
+      {
+       "name": "Kingston",
+       "value": 28
+      }
+     ]
+    },
+    {
+     "name": "Haiti",
+     "children": [
+      {
+       "name": "Port-Au-Prince",
+       "value": 13
+      },
+      {
+       "name": "Port-au-Prince",
+       "value": 143
+      }
+     ]
+    },
+    {
+     "name": "Guadeloupe",
+     "children": [
+      {
+       "name": "Pointe-a-Pitre",
+       "value": 25
+      }
+     ]
+    },
+    {
+     "name": "Cuba",
+     "children": [
+      {
+       "name": "Havana",
+       "value": 25
+      }
+     ]
+    },
+    {
+     "name": "Costa Rica",
+     "children": [
+      {
+       "name": "San Jose",
+       "value": 49
+      }
+     ]
+    },
+    {
+     "name": "Honduras",
+     "children": [
+      {
+       "name": "Tegucigalpa",
+       "value": 163
+      },
+      {
+       "name": "San Pedro Sula",
+       "value": 57
+      }
+     ]
+    },
+    {
+     "name": "Panama",
+     "children": [
+      {
+       "name": "Panama City",
+       "value": 86
+      }
+     ]
+    },
+    {
+     "name": "Dominican Republic",
+     "children": [
+      {
+       "name": "Santo Domingo",
+       "value": 48
+      }
+     ]
+    },
+    {
+     "name": "Trinidad and Tobago",
+     "children": [
+      {
+       "name": "Port-of-Spain",
+       "value": 11
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Eastern Europe",
+   "children": [
+    {
+     "name": "Russia",
+     "children": [
+      {
+       "name": "Moscow",
+       "value": 131
+      },
+      {
+       "name": "Kizilyurt",
+       "value": 13
+      },
+      {
+       "name": "Kizlyar",
+       "value": 19
+      },
+      {
+       "name": "Buynaksk",
+       "value": 40
+      },
+      {
+       "name": "Shali",
+       "value": 18
+      },
+      {
+       "name": "Tyrnyauz",
+       "value": 20
+      },
+      {
+       "name": "Pyatigorsk",
+       "value": 11
+      },
+      {
+       "name": "Makhachkala",
+       "value": 197
+      },
+      {
+       "name": "Karabulak",
+       "value": 27
+      },
+      {
+       "name": "Kaspiysk",
+       "value": 13
+      },
+      {
+       "name": "Kurchaloy",
+       "value": 11
+      },
+      {
+       "name": "Vladikavkaz",
+       "value": 20
+      },
+      {
+       "name": "Grozny/Groznenskiy",
+       "value": 13
+      },
+      {
+       "name": "Saint Petersburg",
+       "value": 18
+      },
+      {
+       "name": "Ordzhonikidzevskaya",
+       "value": 46
+      },
+      {
+       "name": "Nazran",
+       "value": 132
+      },
+      {
+       "name": "Yekaterinburg",
+       "value": 10
+      },
+      {
+       "name": "Urus-Martan",
+       "value": 21
+      },
+      {
+       "name": "Baksan",
+       "value": 22
+      },
+      {
+       "name": "Derbent",
+       "value": 20
+      },
+      {
+       "name": "Gudermes",
+       "value": 21
+      },
+      {
+       "name": "Malgobek",
+       "value": 33
+      },
+      {
+       "name": "Argun",
+       "value": 22
+      },
+      {
+       "name": "Grozny",
+       "value": 221
+      },
+      {
+       "name": "Volgograd",
+       "value": 12
+      },
+      {
+       "name": "Nalchik",
+       "value": 62
+      },
+      {
+       "name": "Khasavyurt",
+       "value": 83
+      }
+     ]
+    },
+    {
+     "name": "Bulgaria",
+     "children": [
+      {
+       "name": "Sofia",
+       "value": 32
+      }
+     ]
+    },
+    {
+     "name": "Ukraine",
+     "children": [
+      {
+       "name": "Artemivsk",
+       "value": 13
+      },
+      {
+       "name": "Krasnohorivka",
+       "value": 11
+      },
+      {
+       "name": "Shyrokyne",
+       "value": 52
+      },
+      {
+       "name": "Shchastya",
+       "value": 46
+      },
+      {
+       "name": "Lviv",
+       "value": 22
+      },
+      {
+       "name": "Hranitne",
+       "value": 12
+      },
+      {
+       "name": "Zolote",
+       "value": 17
+      },
+      {
+       "name": "Nikishyne",
+       "value": 13
+      },
+      {
+       "name": "Maiorska",
+       "value": 12
+      },
+      {
+       "name": "Pisky",
+       "value": 46
+      },
+      {
+       "name": "Odessa",
+       "value": 49
+      },
+      {
+       "name": "Kramatorsk",
+       "value": 18
+      },
+      {
+       "name": "Popasna",
+       "value": 20
+      },
+      {
+       "name": "Smile",
+       "value": 11
+      },
+      {
+       "name": "Luhansk",
+       "value": 51
+      },
+      {
+       "name": "Marinka",
+       "value": 22
+      },
+      {
+       "name": "Slovyansk",
+       "value": 46
+      },
+      {
+       "name": "Starohnativka",
+       "value": 11
+      },
+      {
+       "name": "Kharkiv",
+       "value": 37
+      },
+      {
+       "name": "Chernukhino",
+       "value": 17
+      },
+      {
+       "name": "Donetsk",
+       "value": 197
+      },
+      {
+       "name": "Stanytsia Luhanska",
+       "value": 37
+      },
+      {
+       "name": "Trekhizbenka",
+       "value": 15
+      },
+      {
+       "name": "Mariupol",
+       "value": 36
+      },
+      {
+       "name": "Opytne",
+       "value": 17
+      },
+      {
+       "name": "Simferopol",
+       "value": 11
+      },
+      {
+       "name": "Chermalyk",
+       "value": 12
+      },
+      {
+       "name": "Debaltseve",
+       "value": 35
+      },
+      {
+       "name": "Kiev",
+       "value": 68
+      },
+      {
+       "name": "Dnipropetrovsk",
+       "value": 10
+      },
+      {
+       "name": "Avdiivka",
+       "value": 46
+      },
+      {
+       "name": "Krymske",
+       "value": 16
+      },
+      {
+       "name": "Horlivka",
+       "value": 34
+      }
+     ]
+    },
+    {
+     "name": "Poland",
+     "children": [
+      {
+       "name": "Warsaw",
+       "value": 19
+      }
+     ]
+    },
+    {
+     "name": "Bosnia-Herzegovina",
+     "children": [
+      {
+       "name": "Mostar",
+       "value": 13
+      },
+      {
+       "name": "Sarajevo",
+       "value": 32
+      },
+      {
+       "name": "Banja Luka",
+       "value": 12
+      }
+     ]
+    },
+    {
+     "name": "Yugoslavia",
+     "children": [
+      {
+       "name": "Belgrade",
+       "value": 23
+      },
+      {
+       "name": "Pristina",
+       "value": 14
+      }
+     ]
+    },
+    {
+     "name": "Slovak Republic",
+     "children": [
+      {
+       "name": "Bratislava",
+       "value": 12
+      }
+     ]
+    },
+    {
+     "name": "Kosovo",
+     "children": [
+      {
+       "name": "Mitrovica",
+       "value": 27
+      },
+      {
+       "name": "Pristina",
+       "value": 41
+      }
+     ]
+    },
+    {
+     "name": "Czech Republic",
+     "children": [
+      {
+       "name": "Prague",
+       "value": 19
+      }
+     ]
+    },
+    {
+     "name": "Macedonia",
+     "children": [
+      {
+       "name": "Skopje",
+       "value": 22
+      },
+      {
+       "name": "Tetovo",
+       "value": 24
+      }
+     ]
+    },
+    {
+     "name": "Albania",
+     "children": [
+      {
+       "name": "Tirana",
+       "value": 25
+      }
+     ]
+    },
+    {
+     "name": "East Germany (GDR)",
+     "children": [
+      {
+       "name": "Berlin",
+       "value": 37
+      }
+     ]
+    },
+    {
+     "name": "Belarus",
+     "children": [
+      {
+       "name": "Minsk",
+       "value": 10
+      }
+     ]
+    },
+    {
+     "name": "Latvia",
+     "children": [
+      {
+       "name": "Riga",
+       "value": 14
+      }
+     ]
+    },
+    {
+     "name": "Hungary",
+     "children": [
+      {
+       "name": "Budapest",
+       "value": 42
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "North America",
+   "children": [
+    {
+     "name": "United States",
+     "children": [
+      {
+       "name": "Cincinnati",
+       "value": 10
+      },
+      {
+       "name": "Tampa",
+       "value": 10
+      },
+      {
+       "name": "Oakland",
+       "value": 21
+      },
+      {
+       "name": "New York City",
+       "value": 467
+      },
+      {
+       "name": "Carolina",
+       "value": 12
+      },
+      {
+       "name": "Chicago",
+       "value": 57
+      },
+      {
+       "name": "Cairo",
+       "value": 12
+      },
+      {
+       "name": "Denver",
+       "value": 24
+      },
+      {
+       "name": "Seattle",
+       "value": 40
+      },
+      {
+       "name": "Dallas",
+       "value": 10
+      },
+      {
+       "name": "Kansas City",
+       "value": 20
+      },
+      {
+       "name": "Washington",
+       "value": 86
+      },
+      {
+       "name": "Fresno",
+       "value": 14
+      },
+      {
+       "name": "San Francisco",
+       "value": 98
+      },
+      {
+       "name": "Pittsburgh",
+       "value": 12
+      },
+      {
+       "name": "Caguas",
+       "value": 10
+      },
+      {
+       "name": "San Diego",
+       "value": 22
+      },
+      {
+       "name": "San Juan",
+       "value": 116
+      },
+      {
+       "name": "Atlanta",
+       "value": 15
+      },
+      {
+       "name": "Columbus",
+       "value": 12
+      },
+      {
+       "name": "Baton Rouge",
+       "value": 11
+      },
+      {
+       "name": "Boston",
+       "value": 18
+      },
+      {
+       "name": "Portland",
+       "value": 22
+      },
+      {
+       "name": "Sacramento",
+       "value": 17
+      },
+      {
+       "name": "Bloomington",
+       "value": 10
+      },
+      {
+       "name": "Palo Alto",
+       "value": 11
+      },
+      {
+       "name": "Detroit",
+       "value": 15
+      },
+      {
+       "name": "Albuquerque",
+       "value": 15
+      },
+      {
+       "name": "Arlington",
+       "value": 12
+      },
+      {
+       "name": "Eugene",
+       "value": 12
+      },
+      {
+       "name": "Houston",
+       "value": 20
+      },
+      {
+       "name": "Miami",
+       "value": 85
+      },
+      {
+       "name": "Los Angeles",
+       "value": 112
+      },
+      {
+       "name": "Phoenix",
+       "value": 15
+      },
+      {
+       "name": "Rio Piedras",
+       "value": 17
+      },
+      {
+       "name": "San Jose",
+       "value": 18
+      },
+      {
+       "name": "Philadelphia",
+       "value": 10
+      },
+      {
+       "name": "Cambridge",
+       "value": 11
+      },
+      {
+       "name": "Berkeley",
+       "value": 33
+      }
+     ]
+    },
+    {
+     "name": "Canada",
+     "children": [
+      {
+       "name": "Montreal",
+       "value": 16
+      },
+      {
+       "name": "Toronto",
+       "value": 14
+      },
+      {
+       "name": "Ottawa",
+       "value": 14
+      }
+     ]
+    },
+    {
+     "name": "Mexico",
+     "children": [
+      {
+       "name": "Ecatepec",
+       "value": 12
+      },
+      {
+       "name": "Acapulco",
+       "value": 10
+      },
+      {
+       "name": "Ciudad Juarez",
+       "value": 10
+      },
+      {
+       "name": "Oaxaca",
+       "value": 16
+      },
+      {
+       "name": "Mexico City",
+       "value": 114
+      },
+      {
+       "name": "Tijuana",
+       "value": 14
+      },
+      {
+       "name": "Guadalajara",
+       "value": 38
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australasia & Oceania",
+   "children": [
+    {
+     "name": "New Zealand",
+     "children": [
+      {
+       "name": "Wellington",
+       "value": 11
+      }
+     ]
+    },
+    {
+     "name": "New Caledonia",
+     "children": [
+      {
+       "name": "Noumea",
+       "value": 19
+      },
+      {
+       "name": "Kouaoua district",
+       "value": 19
+      }
+     ]
+    },
+    {
+     "name": "Australia",
+     "children": [
+      {
+       "name": "Melbourne",
+       "value": 15
+      },
+      {
+       "name": "Sydney",
+       "value": 29
+      }
+     ]
+    },
+    {
+     "name": "Papua New Guinea",
+     "children": [
+      {
+       "name": "Panguna",
+       "value": 11
+      },
+      {
+       "name": "Arawa",
+       "value": 10
+      },
+      {
+       "name": "Bougainville Island",
+       "value": 11
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Central Asia",
+   "children": [
+    {
+     "name": "Uzbekistan",
+     "children": [
+      {
+       "name": "Tashkent",
+       "value": 16
+      }
+     ]
+    },
+    {
+     "name": "Georgia",
+     "children": [
+      {
+       "name": "Tskhinvali",
+       "value": 15
+      },
+      {
+       "name": "Zugdidi",
+       "value": 12
+      },
+      {
+       "name": "Sukhumi",
+       "value": 16
+      },
+      {
+       "name": "Tbilisi",
+       "value": 51
+      }
+     ]
+    },
+    {
+     "name": "Armenia",
+     "children": [
+      {
+       "name": "Yerevan",
+       "value": 17
+      }
+     ]
+    },
+    {
+     "name": "Azerbaijan",
+     "children": [
+      {
+       "name": "Baku",
+       "value": 25
+      }
+     ]
+    },
+    {
+     "name": "Kyrgyzstan",
+     "children": [
+      {
+       "name": "Bishkek",
+       "value": 20
+      }
+     ]
+    },
+    {
+     "name": "Tajikistan",
+     "children": [
+      {
+       "name": "Dushanbe",
+       "value": 115
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "East Asia",
+   "children": [
+    {
+     "name": "Japan",
+     "children": [
+      {
+       "name": "Osaka",
+       "value": 12
+      },
+      {
+       "name": "Kyoto",
+       "value": 11
+      },
+      {
+       "name": "Narita",
+       "value": 30
+      },
+      {
+       "name": "Tokyo",
+       "value": 172
+      },
+      {
+       "name": "Yokohama",
+       "value": 13
+      }
+     ]
+    },
+    {
+     "name": "Hong Kong",
+     "children": [
+      {
+       "name": "Hong Kong",
+       "value": 18
+      }
+     ]
+    },
+    {
+     "name": "Taiwan",
+     "children": [
+      {
+       "name": "Taipei",
+       "value": 33
+      }
+     ]
+    },
+    {
+     "name": "South Korea",
+     "children": [
+      {
+       "name": "Seoul",
+       "value": 18
+      }
+     ]
+    },
+    {
+     "name": "China",
+     "children": [
+      {
+       "name": "Urumqi",
+       "value": 12
+      },
+      {
+       "name": "Beijing",
+       "value": 20
+      }
+     ]
+    },
+    {
+     "name": "Macau",
+     "children": [
+      {
+       "name": "Macau",
+       "value": 27
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
